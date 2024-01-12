@@ -3,6 +3,9 @@
 This is the repo for NLPDL 2023 Fall Final Project: Wiki Generation.
 
 ## Setup
+```
+git clone https://github.com/Intellouis/Wiki-Generation
+```
 After creating a new virtual (conda) environment, run: 
 ```
 pip install -r requirements.txt
@@ -30,7 +33,7 @@ To call GPT-4 to generate wiki documents, run:
 python generate.py --method <method_number>
 ```
 where ```<method_number>``` comes from:
-{1: vanilla baseline; 2: CoT; 3: ICL; 4: pre-defined template outline}
+```{1: vanilla baseline; 2: CoT; 3: ICL; 4: pre-defined template outline}```
 
 To use GPT-4 to conduct rating on the generated documents, run:
 ```
