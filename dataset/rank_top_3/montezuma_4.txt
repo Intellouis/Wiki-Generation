@@ -1,0 +1,33 @@
+Montezuma’s Revenge
+Commodore 64 Developer: Parker Brothers
+Original Prototype (Atari 8-Bit): Robert Jaeger/Utopia Software Inc. (1983)
+Publishers: Parker Brothers (1984), BCI Software (1986), Databyte (1986)
+Coding: Parker Brothers
+Graphics: Parker Brothers
+Level Design: Parker Brothers
+Music: (None)
+Game Mode: Single player
+Game Formats: Diskette & tape
+Genre: 2D Platformer
+Gameplay:
+Walkthrough:
+This is a video of how to get through level 1,2,4 and 9. Levels 4-9 are pretty much the same. The only difference is that the number of dark floors increases and that no torch is available in Level 9. I’ve also put in how to get a torch in the darkness of Level 6. I’ve seen other walkthroughs so it is definaltely possible to get to the bottom using other paths, but this is how I do it! Enjoy!
+Game Score:
+As the score box on the top right of the screen only holds 6 digits, I decided to see what happended if I got a million+ points. I completed the 9th level with about 350.000 points and then just repeated the final level over and over again until I reached a seven digit score. I played for about 2 hours 15 minutes before reaching the goal. At that time I must have completed the 9th level like 35-40 times. At 1.007.100 points I captured the score and went to bed. I just love this game so much! (On the right side of the TV is my C64 DTV Datasette Mod)
+Game Map:
+Original Game:
+I own the diskette version of the game by Parker Brothers  and the diskette and tape version from Databyte. The A-sides of the diskettes hold the Commodore 64 version while the B-sides have the Atari 8-bit version. The instructions booklet covers all platforms that the game was released on.
+The Parker Brothers (1984) Diskette Version:
+Montezuma's Revenge featuring Panama Joe from Parker Brothers for the Commodore 64. This is the front cover of the game.
+Montezuma's Revenge Parker Brothers diskette game
+Montezuma's Revenge featuring Panama Joe from the Parker Brothers C64 diskette game
+Montezuma's Revenge Parker Brothers game manual
+The Databyte (1986) Diskette Version:
+The instructions booklet is in German, English and French as this is the European release of the game.
+The Databyte (1986) Tape Version:
+Commodore 64 Montezuma's revenge on tape from Databyte
+The BCI Software (1986) Diskette Version:
+Commodore 64 Montezuma's revenge on cartidge and a Magic Cart.
+Verdict:
+The gameplay is very fluent as Panama Joe moves and jumps as expected. There is no lag or delay on any input from the joystick and the character moves very fluently. The difficulty of the enemies are balanced and I have not yet reached a corner that I could not get myself out of yet. Of course, if you pick up too many keys in the wrong colors you cannot escape the level, but that is not really an issue when you have played the game for a while.
+To get a perfect score the game must had had some kind of ending. For example in the form of escaping the Giant Mexican as in the original prototype or something like that. Even a princess in the end would had made the game more complete. Or by having Panama Joe walk outside the fortress pyramid. Now it’s like, eeehhh, ok I’m done now… But as long as you know that this is how it ends, it’s a great game that I still love to play.
