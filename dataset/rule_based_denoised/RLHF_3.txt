@@ -1,0 +1,52 @@
+What is Reinforcement Learning from Human Feedback?
+Discover the basics of a vital technique behind the success of next-generation AI tools like ChatGPT
+CONTENTS
+Understanding RLHF
+How Does RLHF Work?
+Applications of Reinforcement Learning from Human Feedback
+The Benefits of RLHF
+Limitations of RLHF
+Future Trends and Developments in RLHF
+SHARE
+Understanding RLHF
+To understand the role of RLHF, we first need to speak about the training process of LLMs.
+The underlying technology of the most popular LLMs is a transformer. Since its development by Google researchers, transformers have become the state-of-the-art model in the field of AI and deep learning, as they provide a more effective method to handle sequential data, like the words in a phrase.
+To gain a more detailed introduction to LLMs and transformers, check out our Large Language Models (LLMs) Concepts Course.
+Transformers are pre-trained with a huge corpus of text gathered from the Internet using self-supervised learning, an innovative type of training that doesn’t require human action to label data. Pretrained transformers are capable of solving a wide array of natural language processing (NLP) problems.
+However, for an AI tool like ChatGPT to provide engaging, accurate, and human-like answers, using a pre-trained LLM will not be enough. In the end, human communication is a creative and subjective process. What makes a text “good” is deeply influenced by human values and preferences, making it very difficult to measure or capture using a clear, algorithmic solution.
+How Does RLHF Work?
+RLHF is a challenging process that involves a multiple-model training process and different stages of deployment. In essence, it can be broken down into three different steps.
+1. Select a pre-trained model
+The first stage entails selecting a pre-trained LLM that will be later fine-tuned using RLHF.
+You could also pre-train your LLM from scratch, but this is a costly and time-consuming process. Hence, we highly recommend choosing one of the many pre-trained LLMs available for the public.
+If you want to know more about how to train LLM, our How to Train a LLM with PyTorch tutorial provides an illustrative example.
+For example, if you want to develop an AI legal assistant, you could fine-tune your model with a corpus of legal text to make your LLM particularly familiar with legal wording and concepts.
+2. Human feedback
+First, a training set of input-prompts/generated-texts pairs is created by the pre-trained model by sampling a set of prompts.
+Next, human testers provide a rank for the generated texts, using certain guidelines to align the model with human values and preferences, as well as keep it safe. These ranks can then be transformed into score outputs using various techniques, such as Elo rating systems.
+Finally, the accumulated human feedback is used by the system to evaluate its performance and develop a reward model.
+Source. Hugging Face
+Source: Hugging Face
+3. Fine-tuning with reinforcement learning
+In the last stage, the LLM produces new texts and uses its human-feedback-based reward model to produce a quality score. The score is then used by the model to improve its performance on subsequent prompts.
+Human feedback and fine-tuning with reinforcement learning techniques are thus combined in an iterative process that continues until a certain degree of accuracy is achieved.
+Applications of Reinforcement Learning from Human Feedback
+RLHF is a state-of-the-art technique to fine-tune LLMs, such as ChatGPT. However, RLHF is a popular topic, with growing literature exploring other possibilities beyond NLP problems. Below you can find a list of other areas where RLHF has been applied successfully:
+Chatbots. ChatGPT is the most prominent example of the possibilities of RLHF. To know more about how ChatGPT uses RLHF, check out this article, 'what is ChatGPT?' where we asked ChatGPT directly how it works.
+Robotics. Robotics is one of the main areas where RLHF is delivering promising results. The use of human feedback can help a robot perform tasks and movements that can be difficult to specify in a reward function. OpenAI researchers managed to teach a robot how to backflip –a pretty difficult task to model– using RLHF.
+The Benefits of RLHF
+RLHF is a powerful and promising technique without which next-generation AI tools wouldn't be possible. Here are some of the benefits of RLHF:
+Continuous improvement. RLHF is an iterative process, meaning that the system is improved continuously as its learning function updates following new human feedback.
+Enhanced safety. By receiving human feedback, the system not only learns how to do things, it also learns what not to do, ensuring effective, safer, and trustful systems.
+Limitations of RLHF
+However, RLHF is not bulletproof. This technique also poses certain risks and limitations. Below, you can see some of the most relevant:
+Limited and costly human feedback. RLHF relies on the quality and availability of human feedback. However, getting the job done can be slow, labor-intensive, and costly, especially if the work at hand requires a lot of feedback.
+Bias in human feedback. Despite the use of standardized guidelines to provide feedback, scoring or ranking is ultimately influenced by human preferences and values. If the ranking tasks are not well framed, or the quality of human feedback is poor, the model may become biased, or reinforce undesirable outputs.
+Generalization to new contexts. Even if LLMs are fine-tuned with substantial human feedback, unexpected contexts can always arise. In this case, the challenge is to make the agent robust to situations with limited feedback.
+Hallucinations. When human feedback is limited or poor, agents may experience so-called hallucinations, that is undesirable, false, or nonsense behavior.
+Future Trends and Developments in RLHF
+To stay tuned with the latest developments in generative AI, machine learning, and LLMs, we highly recommend you check out our curated learning materials:
+Introduction to Reinforcement Learning - This tutorial covers the basic concepts and terminologies of reinforcement learning.
+Deep Learning in Python - This track helps learners expand their deep learning knowledge and take their machine learning skills to the next level.
+Deep Learning Tutorial - This tutorial provides an overview of deep learning and reinforcement learning.
+How to Ethically Use Machine Learning to Drive Decisions - This blog post discusses the importance of ethical considerations when using machine learning models.
