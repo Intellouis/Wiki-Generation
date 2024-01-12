@@ -1,0 +1,49 @@
+What is RLHF?
+Reinforcement learning from human feedback (RLHF) is a machine learning (ML) technique that optimizes ML models through human feedback to self-learn more effectively. It trains software using reinforcement learning (RL) to make decisions that maximize rewards, thus improving their accuracy. RLHF incorporates human feedback into the rewards function, enabling the ML model to perform tasks that better align with human goals, wants, and needs. It is widely utilized in generative AI applications, including large language models (LLMs).
+
+Why is RLHF important?
+AI applications are extensive and include self-driving cars, natural language processing (NLP), stock market prediction, and personalized retail services. The overarching goal of AI is to emulate human-like responses, behaviors, and decision-making. The ML models must integrate human input as training data to let the AI replicate human-like behavior more accurately during complex tasks.
+
+RLHF specifically helps train AI systems to appear more human-like alongside supervised and unsupervised learning techniques. Initially, the model's responses are compared to those of humans. Then, humans evaluate the machine's various responses, scoring them based on how human-like they sound, considering elements like friendliness, proper contextualization, and mood.
+
+RLHF is notable in natural language understanding and other generative AI applications.
+
+Enhances AI performance
+RLHF improves the accuracy of ML models. Training a model on pre-generated human data benefits from human feedback loops, boosting performance beyond its initial capabilities.
+
+For instance, when translating text, a model could generate translations that are technically correct but linguistically unnatural. Professional translators can provide an initial translation to evaluate the machine's output, followed by a sequence of machine-generated translations being rated for naturalness. Additional training of the model results in more natural-sounding translations.
+
+Introduces complex training parameters
+Generative AI can involve challenging training parameters, such as defining the mood of a musical piece. While mood might be suggested by technical aspects like key and tempo, human input is more insightful. Composers create emotionally charged pieces, which are then labeled for mood, teaching the machine such subjective parameters more efficiently.
+
+Enhances user satisfaction
+While an ML model might be accurate, it may not seem human-like. RL guides the model toward responses more engaging for humans.
+
+For example, consider two responses from a chatbot about the weather: one simply stating the temperature, clouds, and humidity, the other providing similar information in a more conversational and context-rich manner. Though conveying the same information, the second response is more natural. RLHF, by incorporating human preference feedback, refines the model to better address human users.
+
+How does RLHF work?
+RLHF follows four stages before finalizing the model, illustrated here using a company's internal knowledge base chatbot.
+
+Data collection
+Training data consists of human-generated prompts and responses, which the language model will later reference.
+
+Supervised fine-tuning of a language model
+A commercial pre-trained model can be fine-tuned to an organization's knowledge using techniques like retrieval-augmented generation (RAG). Responses produced by the model are compared to human responses, and mathematical methods determine their similarity, which informs the policy guiding the model's decision-making.
+
+Building a separate reward model
+The essence of RLHF lies in creating an AI reward model from human feedback. This model becomes the reward function for policy optimization through RL. Multiple responses to the same prompt by the model are assessed by humans who indicate their preference, and these ratings inform the reward model which predictively scores any given response.
+
+Optimize the language model with the reward-based model
+The language model refines its policy using the reward model before responding, choosing the response likely to achieve the highest human preference score.
+
+How is RLHF used in generative AI?
+RLHF is the benchmark for ensuring LLMs generate content that is truthful, harmless, and constructive. Given that human communication is subjective and creative, LLM output's helpfulness depends on human values and preferences. Each model is trained distinctively and engages different humans for response evaluation, leading to varied outputs among competing LLMs. The incorporation of human values depends on the creators.
+
+RLHF is applied beyond LLMs in generative AI, such as in AI image generation to assess realism, technicality, or emotional content; in music generation to produce mood-specific music; and in voice assistants to make them sound friendlier, more inquisitive, and trustworthy.
+
+How can AWS help with your RLHF requirements?
+Amazon SageMaker Ground Truth offers an extensive human-in-the-loop framework for integrating human feedback throughout the ML lifecycle, enhancing model accuracy and relevance. It provides tasks ranging from data generation and annotation to reward model creation, model review, and customization through either a self-service or AWS managed service.
+
+SageMaker Ground Truth features a data annotator for RLHF, allowing direct feedback on model outputs by ranking or classifying for improved RL outcomes. This comparison and ranking data serve as the reward model or reward function for training the model. With this data, you can tailor an existing model to your needs or refine one you've built from scratch.
+
+Start using RLHF techniques on AWS by creating an account today.

@@ -1,0 +1,14 @@
+Modularity of Mind
+First published Wed Apr 1, 2009; substantive revision Mon Aug 21, 2017
+The concept of modularity has loomed large in philosophy of psychology since the early 1980s, following the publication of Fodor’s landmark book The Modularity of Mind (1983). In the decades since the term 'module' and its cognates first entered the lexicon of cognitive science, the conceptual and theoretical landscape in this area has changed dramatically. Especially noteworthy in this respect has been the development of evolutionary psychology, whose proponents adopt a less stringent conception of modularity than the one advanced by Fodor, and who argue that the architecture of the mind is more pervasively modular than Fodor claimed. Where Fodor (1983, 2000) draws the line of modularity at the relatively low-level systems underlying perception and language, post-Fodorian theorists such as Sperber (2002) and Carruthers (2006) contend that the mind is modular through and through, up to and including the high-level systems responsible for reasoning, planning, decision making, and the like. The concept of modularity has also figured in recent debates in philosophy of science, epistemology, ethics, and philosophy of language—further evidence of its utility as a tool for theorizing about mental architecture.
+
+Table of Contents:
+
+- What is a mental module?
+- Modularity, Fodor-style: A modest proposal
+   - Challenges to low-level modularity
+   - Fodor’s argument against high-level modularity
+- Post-Fodorian modularity
+   - The case for massive modularity
+   - Doubts about massive modularity
+- Modularity and philosophy

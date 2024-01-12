@@ -1,0 +1,11 @@
+What is reinforcement learning from human feedback (RLHF)?
+
+Reinforcement learning from human feedback is a training technique that includes human input to enhance the training of machine learning models, particularly large language models (LLMs) like ChatGPT. This input helps to address aspects that cannot be adequately measured through automated rewards systems alone. RLHF combines both automated and human-provided feedback signals to create a more effective learning process.
+
+Reinforcement learning is a subset of machine learning where an agent learns to make decisions by interacting with its environment, aiming to maximize cumulative reward. In typical reinforcement learning applications, such as playing chess, the agent learns from the delayed reward of winning a game. However, when the desired outcome is more subjective or difficult to quantify, as with language models, direct human feedback helps define the rewards and steer the training in the desired direction.
+
+RLHF for language models involves three steps: beginning with a pre-trained language model, then training a secondary model to score the output based on human evaluations, and finally integrating these scores into the reinforcement learning loop to guide the primary model to produce better-aligned text. This method allows language models to better understand and respond to the nuances of human language and context, beyond what can be gleaned from unsupervised learning alone.
+
+OpenAI's ChatGPT, for example, leverages RLHF to improve its responses, training it to align with human intentions and preferences, and refining it through supervised fine-tuning and advanced reinforcement learning techniques such as proximal policy optimization (PPO).
+
+However, RLHF has its limitations, as it relies on human intervention which can be a slow and expensive process. The scalability challenge is a bottleneck for RLHF, making it less accessible for smaller organizations without extensive resources. Additionally, human preferences are diverse and nuanced, so a model trained via RLHF may not align perfectly with all users' expectations. Despite the challenges, RLHF offers a valuable framework for integrating human preferences into the training of AI models.

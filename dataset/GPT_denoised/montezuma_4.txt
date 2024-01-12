@@ -1,0 +1,34 @@
+Montezuma's Revenge
+Commodore 64 Developer: Parker Brothers
+Original Prototype (Atari 8-Bit): Robert Jaeger/Utopia Software Inc. (1983)
+Publishers: Parker Brothers (1984), BCI Software (1986), Databyte (1986)
+Coding: Parker Brothers
+Graphics: Parker Brothers
+Level Design: Parker Brothers
+Music: None
+Game Mode: Single player
+Game Formats: Diskette & tape
+Genre: 2D Platformer
+
+Gameplay:
+The Commodore 64 version of Montezuma's Revenge is a game I fondly played frequently at a friend's house during my childhood. We managed to reach the 5th or 6th level before succumbing to the game's challenges. The interest in this classic console, commonly referred to as the breadbox, was reignited, and Montezuma's Revenge remained my go-to game. The original game's prototype, crafted by Robert Jaeger on the Atari 8-bit and bearing his Utopia Software Inc. brand, gained the attention of Parker Brothers at the 1983 Consumer Electronics Show, leading to an international publication of the game. The initial prototype featured music, an elaborate intro screen, and a giant Mexican character at the end, which were all removed by Parker Brothers for adaptation to the Commodore 64. Also, the main character's name was altered from Pedro to Panama Joe, and further modifications were made to make the game consumer-ready.
+
+In Montezuma's Revenge, players guide Panama Joe through a 2D platforming adventure across 9 levels, each comprised of a 100-room pyramid with 10 floors. Starting at the pyramid's peak, the aim is to descend each level by overcoming obstacles like jumping ropes, climbing ladders, avoiding deadly fire pits and various lethal creatures (including skulls, spiders, and snakes), navigating moving conveyor belts, evading laser gates, and not falling from disappearing floors.
+
+Crucial to progression are keys matching the colors of the doors they unlock (blue, red, green). The inventory, displayed on the top left, can store up to six items, so it's vital to select keys wisely. Specific tools and rewards scattered throughout enhance Panama Joe's journey, such as Jewels for points, swords for defeating spiders and skulls, torches, and hammers for bypassing dangerous foes. Accumulating points provides extra lives at intervals, with 10,000 points needed in levels 1-3, and 20,000 points required from level 4 onwards.
+
+Reaching the base of a level brings Panama Joe to the Treasure Chamber where the Emperor's treasure lies, filled with jewels which the player must collect before being automatically transported to the subsequent level.
+
+The challenge intensifies with additional enemies on higher levels, and progressively darker floors, increasing by one per level until level 9 where all floors are unlit. Torches, absent in level 9, illuminate otherwise dark areas, revealing key game elements. Enemies defeated in levels 1-4 vanish, but from level 5 upwards, they remain, necessitating careful navigation without touching them to proceed.
+
+Walkthrough:
+Here is guidance for traversing levels 1, 2, 4, and 9, noting the main variance in higher levels is the increasing number of dark floors and no torches in level 9. Other walkthroughs may suggest alternative routes, but this follows my preferred approach for proceeding through the game's levels.
+
+Game Score:
+Upon obtaining over a million points by repeatedly completing the final level, the score box, which accommodates only six digits, maxed out. The seven-digit score reached was 1,007,100 points after about 2 hours and 15 minutes of gameplay. A right-side image of my C64 DTV Datasette Mod also features my recorded score.
+
+Game Map:
+C64 enthusiasts Spaceman Spiff and Steel Lynx of SYMLiNK.dk created comprehensive maps for all levels using a script for screen captures whenever Panama Joe entered a new room. These maps are available for download from their website and can be used to assess key positions and alternative paths to succeeding levels. For better visibility, lighting was digitally enhanced in level 9 on their maps, making otherwise invisible doors visible. A poster-sized (70 x 100 cm) PDF showcasing levels 1, 2, 3, and 9 maps can be downloaded, useful for strategy planning.
+
+Verdict:
+Montezuma's Revenge offers fluid gameplay with instantaneous joystick response, with no lag or input delay affecting Panama Joe's movements. The game maintains well-balanced difficulty, and while issues can arise from collecting too many incorrect keys, such hurdles become negligible with experience. While the game lacks a definitive ending, such as an escape from the Giant Mexican or another conclusive event, its replay value and enjoyment persist.

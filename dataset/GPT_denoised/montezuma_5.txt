@@ -1,0 +1,26 @@
+Montezuma's Revenge
+2023-Jan-16 Console Gaming, GameMaker Tutorials Comments
+First released in 1983, Montezuma's Revenge is a pioneering platform game available on various home consoles and personal computers. The game's name references the common colloquial term for traveler's diarrhea experienced by travelers to areas south of the US-Mexico border. The common advice is to avoid drinking the water due to the risk of dysentery, humorously leading to the game being called "Diarrhea". This name carries a certain level of insensitivity toward South Americans, including Aztecs.
+
+I became acquainted with it through its Atari 5200 version. During visits to my cousin's house, who owned this console, we would play its range of games.
+
+These screenshots hail from the Colecovision version, which would be indistinguishable to the uninitiated; and to be clear, this isn't a capture of my own gameplay—I'm not proficient at the game.
+Compared to the Atari 2600 at home, the Atari 5200 featured better graphics but was hampered by non-self-centering analog joysticks, complicating gameplay. With self-centering sticks, releasing the stick halts movement, while the 5200's stick required manually centering to stop, challenging players' precision and control. The difficulty in maneuvering could culminate in a lost life or game over if a player misjudged a movement.
+
+Limited by the joysticks, I struggled with the game, while my cousin, with constant access to the console, managed to master the controls and complete the game flawlessly. I, however, could only marvel at his prowess and witness his navigation through the treacherous levels.
+
+Montezuma's Revenge was also issued on Colecovision, Commodore 64, Sega Master System, Apple II, Atari 8-bit computers, MS-DOS, and, to my later surprise, the Atari 2600. Had I been aware, I would have engaged more with it on a console with a reliable joystick, likely becoming adept myself.
+
+The game is infamously difficult, an exemplar among the brutally challenging games of the 1980s. Dubbed "FU Hard," Montezuma's Revenge presented a variety of hazards that were visually similar to necessary actions, confounding players and amplifying the game's difficulty. Among the perils were stationary snakes, roaming spiders, rolling and bouncing skulls, fiery pits, electrified walls, vanishing floors, and fatal falls from even minor heights. Misjudgment in jumping or timing regularly resulted in death.
+
+The game compounded these challenges with aesthetic similarities between hazards, such as flickering disappearing floors and electrified barriers that visually appeared similar but had vastly different consequences. Additionally, conveyor belt floors affected jump timing, and rooms that appeared identical could disorient players.
+
+Exemplifying the intricate design, some rooms necessitated specific keys to progress, and the game included dark rooms where invisible gaps could lead to unseen pitfalls.
+
+Beyond the challenges, Montezuma's Revenge featured innovative elements like a simple inventory system that allowed carrying and using items like keys, torches, and swords, though they were automatically used without additional player input. The game's level design and the spatial logic required to navigate the pyramid hinted at early iterations of Metroidvania-style gameplay.
+
+The level design mirrored a pyramid structure, hinting at the thematic exploration within a Mesoamerican pyramid. Successful navigation through a level led to a treasure room, analogous to the Coin Heaven in Super Mario Bros., but predating it by a year.
+
+The game has recently seen a revival with a Kickstarter-funded NES port and a Steam version with both modern and classic graphics, available through NormalDistribution.com. Though the game remains notoriously difficult, it's a testimony to the ingenuity and impact of the original.
+
+I'm expecting delivery of the NES cartridge tomorrow, and I'm prepared for the challenge it will surely present.

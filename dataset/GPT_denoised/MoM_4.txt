@@ -1,0 +1,57 @@
+Fodor's Modularity of Mind
+December 2, 2013 by Kevin Binz
+Part of the Cognitive Modularity series
+Content summary: 1100 words, 11 min reading time
+
+Let's today review this text, widely regarded as one of the most influential in the cognitive psychology tradition.
+
+Motivations
+
+A landmark in cognitive psychology, this extensive argument for the modularity of input systems shifted the field's direction upon its publication in 1983, with ongoing responses to this day.
+
+Modularity of Mind stands out as a rare book that pairs an extensive vocabulary with a clear style of communication. Fodor's dry wit and profound knowledge of empirical data enrich occasional complex discussions. His penchant for debate is not evident in this essay. The work is divided into five parts:
+
+Part 1: Four Accounts of Mental Structure
+
+Fodor describes four competing theories of mental structure:
+
+Neo-Cartesianism
+Horizontal faculties
+Vertical faculties
+Associationism
+In the Neo-Cartesianism discussion, Fodor differentiates between innate faculties: propositional versus architectural. He discusses two reactions to the tabula rasa concept. The first suggests the mind isn't completely undifferentiated at birth; infants have innate "cognitive furniture," like image rendering engines. The second proposes humans are born with certain pre-installed knowledge (e.g., Chomskyan universal grammar).
+
+Fodor then considers the horizontal/vertical distinction within architectural theories of cognition. Horizontal modular theories suggest cognitive functions are domain-general, with historical roots dating to ancient Greece; a contemporary example is modern psychology's view of long-term memory. Vertical modular theories assert cognitive functions are domain-specific. Instead of dividing the mind into perception, memory, and motivational modules, vertical theorists like Franz Gall (phrenology's father) endorse separate modules for mathematics, music, poetry, etc., arguing against a domain-general memory concept.
+
+Finally, Fodor examines Associationism, including Behaviorism. As expected from his functionalist stance, he presents arguments showing the movement's inadequacies.
+
+Part 2. A Functional Taxonomy of Cognitive Mechanisms
+
+Fodor presents a three-layer mental architecture: transducers, input processing, and central systems. The brain transduces signals via sensory organs to input systems, elevating data abstraction and preserving intermediate results in interlayers. The central systems then bind these results into coherent beliefs with background knowledge assistance. Fodor posits language processing as a distinct sensory system from acoustic processing, encapsulating the complete lexicon. Notably, he does not address organism output (behavior).
+
+Part 3. Input Systems as Modules
+
+This section, rich in empirical evidence, briefly outlines each module's characteristics:
+
+Domain specificity. Mechanisms exist to process distinct stimuli without sharing information.
+Mandatory operation. Humans can ignore but not consciously suppress their experiential awareness.
+Hidden interlevels. Introspection cannot reveal intermediate states of visual transformation, only the end product.
+Fast processing. Sensory processing is extremely quick due to evolutionary pressures.
+Informational encapsulation. Input processing cannot access broader knowledge, with minimal feedback loops affecting sensory processing.
+Shallow outputs. Input systems output non-conceptual information, leaving conceptual fixation to other systems.
+Fixed neural architecture. Input systems correlate to specific neural locations, unlike central processes.
+Idiosyncratic breakdown patterns. Brain damage causes selective, severe input processing failures.
+Shared ontogeny. Cognitive structure matures innately.
+Informational encapsulation is highlighted as the thesis's key element. It explains the protection of raw percepts from the organism's own biases by restricting information flow.
+
+Fodor notes an interesting point about conceptual fixation, explaining how human concepts are ordered hierarchically and how beliefs tend to fixate at a particular level due to various factors.
+
+Part 4: Central Systems
+
+Fodor acknowledges the lack of evidence on central processes and turns to analogy, comparing scientific confirmation to psychological belief fixation. He cautions that allowing unrestricted information transfer can lead to computationally intractable problems, a central issue in the framing problem of artificial intelligence. The section's vagueness and lack of empirical backing suggest studying modern probabilistic models and AI approaches to approximating universal induction.
+
+Part 5: Caveats and Conclusions
+
+The essay concludes with thoughts on modularity and epistemic limits – whether there are truths beyond our understanding. After a historical review, Fodor suggests discussing bounded cognition without heavily relying on modularity concepts. He ends with a somber note on how our best thinkers are more adept at assessing local rather than global phenomena, a sociological trend likely to persist.
+
+This insightful text sharpens the focus on current debates in cognitive science.

@@ -1,0 +1,34 @@
+Reinforcement learning from human feedback (RLHF) is a machine learning technique that blends traditional reinforcement learning methods (such as rewards and penalties) with human input to train an AI agent.
+
+Machine learning, an essential part of AI, involves training an AI agent to perform a specific function through billions of calculations and iterations. This process is faster than human-guided training due to its automated nature.
+
+Human feedback becomes crucial in refining interactive or generative AIs, like chatbots. Incorporating human feedback for generated text can optimize the model, enhancing its efficiency, coherence, and utility. In RLHF, human testers and users provide direct input to fine-tune the language model more precisely than through autodidactic training. RLHF is mainly applied in natural language processing (NLP) for improving AI agent comprehension in applications such as chatbots, conversational agents, text-to-speech, and summarization.
+
+In standard reinforcement learning, AI agents self-improve based on a reward function corresponding to their actions. However, defining measurable rewards for complex tasks like NLP can be challenging, potentially resulting in a confused chatbot that doesn't resonate with users.
+
+RLHF aims to develop language models that produce compelling and factually correct text. Initially, it establishes a reward model to predict human assessments of the quality of text that an AI generates. This prediction is then used to train a machine learning model capable of anticipating human ratings of the text.
+
+Subsequently, it fine-tunes the language model using the reward model, incentivizing the generation of highly-rated text.
+
+The model also has built-in mechanisms to dismiss requests that are inappropriate, denying content requests that promote violence or display racist, sexist, or homophobic content.
+
+One RLHF model in use is OpenAI's ChatGPT.
+
+ChatGPT, a generative AI tool, uses RLHF to produce content such as chats based on user prompts. ChatGPT, employing large language models trained on extensive data, aims to predict subsequent words in sentences, but it also needs to understand the user's intent clearly. Training with RLHF embeds human conversational patterns, allowing ChatGPT to formulate contextually relevant and helpful responses.
+
+RLHF training occurs in three phases:
+
+1. Initial phase: Choose an existing model to identify and label correct behavior which saves time as it leverages a pre-trained model.
+2. Human feedback: Post initial model training, human testers score diverse outputs based on quality or accuracy. This feedback creates a benchmark for the model's reinforcement learning.
+3. Reinforcement learning: The main model is fine-tuned using the feedback-reward system to enhance future performance.
+
+Collecting human insights and refining the model with RLHF is a repetitive process tailored for continual enhancement.
+
+Challenges and limitations of RLHF include:
+
+1. Subjectivity and human error: Feedback quality can fluctuate among users and evaluators. Experts in specific fields may provide more accurate responses, but their engagement can be costly and time-intensive.
+2. Wording of questions: Accurate answers depend on precisely formulated queries. Ambiguous instruction can lead to misunderstanding, although this might be mitigated by rephrasing.
+3. Training bias: RLHF can inherit machine learning biases, particularly for complex or subjective questions.
+4. Scalability: Human-dependent feedback processes are slower and scaling up for larger models requires significant time and resources. Developing methods for automating feedback could address this issue.
+
+Implicit language Q-learning (ILQL) is a reinforcement learning method that improves upon traditional Q-learning models by incorporating language. In ILQL, an agent is rewarded based on outcomes and human input, using these rewards to update its Q-values to predict future actions. While traditional Q-learning bases rewards solely on action outcomes, ILQL leverages human feedback to teach agents complex tasks more effectively than autonomous learning.

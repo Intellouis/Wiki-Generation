@@ -1,0 +1,17 @@
+Reinforcement Learning from Human Feedback (RLHF) is a crucial technique that powers advanced AI tools like ChatGPT. In this introduction, we explore what RLHF is, along with its advantages, limitations, and its role in shaping the future of generative AI.
+
+Understanding RLHF involves looking at how Large Language Models (LLMs), particularly those built on transformers, are trained. Initially, transformers are pre-trained on vast collections of text data through self-supervised learning, enabling them to tackle a variety of natural language processing tasks.
+
+However, to achieve human-like outputs in AI tools such as ChatGPT, solely relying on pre-trained models isn't sufficient due to the subjective nature of human communication. RLHF steps in as a method that refines the performance of these models by integrating human feedback into the training process. This human-driven approach adjusts the learning process, allowing LLMs to be versatile across different applications and more aligned with human values.
+
+RLHF is carried out by choosing a suitable pre-trained model and fine-tuning it with human feedback across three stages:
+
+1. Selection of a pre-trained model for further fine-tuning.
+2. Gathering and incorporating human feedback to form a nuanced reward model, often involving ranking responses based on guidelines reflecting human preferences.
+3. Iterative fine-tuning with reinforcement learning, where the model adjusts its outputs to maximize the human-generated reward signals.
+
+RLHF has been effectively employed in various applications beyond NLP, including chatbots, robotics, and gaming, allowing systems to perform tasks in a more human-compatible manner.
+
+The benefits of RLHF are significant, including enhanced performance, adaptability, continuous improvement, and increased system safety. However, challenges persist, such as the reliance on extensive human feedback, potential biases from subjective judgements, generalizability issues, and the phenomenon of "hallucinations" where models generate false or nonsensical outputs.
+
+Moving forward, RLHF remains fundamental to generative AI progress. Ongoing research aims to refine RLHF techniques to further optimize LLM efficiency, mitigate environmental impacts, and overcome existing limitations. For those interested in keeping up with advancements in the field, resources on reinforcement learning, deep learning, and ethical machine learning practices are invaluable.

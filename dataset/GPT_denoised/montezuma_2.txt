@@ -1,0 +1,49 @@
+Episode 19: Montezuma's Revenge
+
+Introduction:
+
+Amidst the diverse origins of homebrew games, some are commendable ports of erstwhile favorites, like Ultimate Frogger Champion by KHAN Games. On occasion, an ancient title is revived and adapted for contemporary platforms, under the watchful eye of its original creator, who ardently wishes to bring it to the NES - a vision enduring for generations.
+
+Today, I offer an insider's glimpse into the NES adaptation of the Atari classic and pioneering Metroidvania, Montezuma's Revenge. Currently, development is nearing completion, headed by its creator, Robert Jaeger, through his firm Normal Distribution, with a Kickstarter launch slated for December 2021 via publisher Second Dimension. Consequently, today's post is a brief one, highlighted by interviews with the development team, aiming to pique your interest.
+
+Development Team:
+
+Robert Jaeger: Project Management
+Felipe Reinaud: Programming
+Adam Welch (@dra600n): Publication & Distribution
+
+Game Evolution:
+
+Montezuma's Revenge traces its roots to 1983, when a young Robert Jaeger, on his friend Mark Sunshine's suggestion, embarked on creating an Atari 800 game with a Mesoamerican motif. A labor of dedication saw the game premiering at the Consumer Electronics Show in the early '80s. Although the game initially demanded 48k of memory, Parker Brothers, to cut costs, compressed it into a lean 16k version, yielding an unwinnable boss encounter with Emperor Montezuma.
+
+Gameplay Overview:
+
+In Montezuma's Revenge, players navigate as Panama Joe (aka Pedro) through Montezuma II's intricate underground pyramid. The objective is to acquire jewels and vanquish adversaries, deftly maneuvering through traps and seeking the means to delve further into the perilous depths.
+
+Interviews:
+
+In pursuit of authentic insights, as the game approaches its final stages, I spoke with the development team to capture their narratives...
+
+Robert Jaeger:
+- His inspiration to create games stemmed from early coin-op video games. He programmed in various languages and for multiple systems, including the Commodore 64 and PC.
+- Normal Distribution began as a fintech endeavor but now focuses solely on gaming.
+- Influential figures include Bill Budge and John Carmack, while current interests lie in VR developments.
+- C++ is his current programming language of choice, and the cross-platform Montezuma is developed on Cocos2dx.
+- Felipe Reinaud's programming talents and passion led to the development of the NES Montezuma.
+- Jaeger’s design process involves evolving simple ideas, letting technical constraints and discoveries steer game development. He advises aspiring developers to start now using the free tools available.
+- Montezuma's Revenge showcases his preference for technology-driven, fun, and humor-infused games with benign violence, aligned with the desires of the game's lively character.
+- Programming for the NES presented distinct challenges, and the port maintains the essence of the game adapted to NES capabilities.
+
+Felipe Renaud:
+- Influenced by Michael Chiaramonte's YouTube works, Renaud grew up with the Atari and NES.
+- His professional foray into game development commenced in Chile, eventually leading to opportunities at Ubisoft.
+- Renaud employed Visual Studio Code alongside self-created asset tools to bring to life the NES port of Montezuma's Revenge.
+- Bringing Montezuma's Revenge to the NES has been a source of pride for him.
+
+Adam Welch:
+- Not new to the homebrew scene, Welch has been active in both developing and publishing homebrew games through Second Dimension.
+- He connected with Robert Jaeger for the NES version of Montezuma's Revenge, a title he cherished as part of his childhood.
+
+Conclusion:
+
+The development of Montezuma's Revenge for NES unveils the collective effort and passion of a dedicated team. Eager to share more of such homebrew adventures, I ask – what are your thoughts on Montezuma's Revenge and its developers' legacy? Which upcoming homebrews captivate your curiosity? Stay tuned for further explorations into the homebrew landscape.

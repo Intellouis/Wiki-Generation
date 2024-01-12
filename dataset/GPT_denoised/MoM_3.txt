@@ -1,0 +1,17 @@
+Classical cognitive science posits that cognition equates to computation and embraces the physical symbol system hypothesis, blending two seventeenth-century theories - Cartesian rationalism, where thought leads to rational outcomes via rule-governed idea manipulation, and anti-Cartesian materialism, where physical mechanisms execute thought processes.
+
+This synthesis affects the principle of innateness, which both Cartesian philosophy and classical cognitive science value. Descartes believed some mental state contents are innate, serving as mental axioms for generating new content (Descartes, 1996, 2006). Similarly, classical cognitive science often posits innate mechanisms for content manipulation rather than the content itself, suggesting an innate cognitive architecture.
+
+Innateness as a theoretical constraint has steered copious linguistics research over the last decades (Jackendoff, 2002). It proposes a universal and systematically developing architecture tied to biological growth. Yet, innateness is merely one of many constraints, each compatible with various architectural hypotheses. To narrow these, we consider modularity (Fodor, 1983), which proposes specialized processors over homogenous systems for problem-solving, addressing the packing problem - optimizing computational capacity in limited-resource systems like the brain (Ballard, 1986).
+
+Fodor (1983) describes modules as domain-specific, rapid, mandatory, wired-in neural processors that are informationally encapsulated and cognitively impenetrable. For cognitive psychology, considering machines like Turing's within a matrix of subsidiary systems that adapt to environmental input is essential (Fodor, 1983, p. 39).
+
+Neuroscience heavily informs the debate on modularity, where Fodor (1983) suggests central processes lack the encapsulated, domain-specific properties of modules. This viewpoint challenges evolutionary psychology's ability to explain isotropic processes (Barkow, Cosmides, & Tooby, 1992) and has led to the massive modularity hypothesis (Carruthers, 2006; Pinker, 1994, 1997), which extends modularity to high-level reasoning and fuels ongoing discussions.
+
+The degree of modularity is central to contemporary cognitive science debates. For instance, musical cognition's modularity is contentious, with evolutionary psychologists doubting its survival value and musically-focused researchers finding evidence for modular rhythm and tonal perception (Alossa & Castelli, 2009; Peretz, 2009; Peretz & Coltheart, 2003; Peretz & Hyde, 2003; Peretz & Zatorre, 2003, 2005).
+
+Neuroscientific techniques, such as brain imaging, investigate modularity by attempting to localize functions. However, music's brain activation patterns suggest multiple areas participate, complicating the argument for its modularity. Disparities in behavioural and neural evidence require careful analysis since functional and implementational aspects may diverge or spread across various physical components.
+
+Using neuroscience evidence supports modularity claims, as opposed to theories without such backing, such as Gallistel's (1990) theory of animals' geometric cue processing. As a result, the modularity of certain cognitive functions remains under scrutiny (Cheng, 2008).
+
+In conclusion, while consensus points towards a modular cognitive architecture, asserting a function's modularity demands a combination of behavioural and neural evidence that transcends cognitive penetrability arguments.

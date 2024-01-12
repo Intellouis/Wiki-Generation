@@ -1,0 +1,29 @@
+Title: Montezuma’s Revenge: 8-Bit Edition
+System: Nintendo Switch (eShop)
+Price: $11.99
+Release Date: 02/16/2023
+Story
+
+In the early 80s, Parker Bros released Montezuma's Revenge, a robust platformer renowned for its exploratory elements that predated the likes of Metroid. Now ported to the NES, Montezuma's Revenge, which - unbeknownst to me - has some unfortunate connotations tied to its name, has players guiding the protagonist through a sprawling temple on a treasure hunt. The premise is straightforward, letting exploration drive the gameplay narrative.
+
+Presentation
+
+As the third NES emulation by Nami Tentou, this release mirrors its predecessors, Orebody (pre-patch) and Beebis II, lacking save state features but including a scanned manual, a decent CRT filter, a decorative border, and additional extras. Notably, Montezuma’s Revenge offers 80s press photos, recent merchandise images from its NES Kickstarter, and in-game maps within the manual—although, the in-game scan is too blurred for detail.
+
+The game maintains its original aesthetics with an NES color palette, crisp animations, and fittingly cheerful background music that pairs well with the sound effects. Distinguishable items and detailed rooms aid in navigation, showcasing better audio emulation than Orebody.
+
+Gameplay
+
+Montezuma's Revenge can be described as an early metroidvania, where players collect treasures, use keys to access new temple areas, and navigate by moving and jumping through diverse rooms. The first level presents a semi-linear challenge that opens up to multiple pathways. The manual highlights two additional maps and their darkened variants that require torchlight or wit for navigation.
+
+Your character is vulnerable, succumbing to one-hit kills and fatal falls without a rope. Precision is necessary in each room to secure items and avoid enemies. Take too long, and a bird may spell your early end. Starting with five lives, you can earn more through points predominantly based on progression. Deplete your lives, and it's back to the title screen, reflecting the game's old-school nature.
+
+The game is engaging, with opportunities to progress further upon each attempt. Supportive items, like knives and temporary invincibility power-ups, help in tight spots, whereas traditional dodging is needed for most confrontations. If you die, the enemy that caused it despawns, allowing another attempt. However, the game's structure—large levels, limited lives, and extensive backtracking after a game over—proves to be an unforgiving port.
+
+Despite a lack of save states, the game preserves its charm, only unlocking new stages as you complete the previous ones, which may disappoint those wanting to freely explore without earning it first. The absence of modern quality-of-life features makes this a classical hardware experience.
+
+Conclusion
+
+The NES emulation of Montezuma’s Revenge is solid. Bonus materials are appreciated despite some blurriness, and the game controls well alongside the convincing CRT filter feature. However, missing save states and an inability to disable the High-Score display (which is obscured by the 4:3 display option) make for a stripped-down port. While it's an excellent choice for those familiar with or willing to learn the ropes, the steep price makes it a harder sell for newcomers expecting additional content or options.
+
+Montezuma’s Revenge: 8-Bit Edition is rated 6 out of 10.
