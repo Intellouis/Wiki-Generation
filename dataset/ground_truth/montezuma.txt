@@ -1,0 +1,38 @@
+Montezuma's Revenge (video game)
+
+Developer(s)	Utopia Software
+Publisher(s)	Parker Brothers
+Designer(s)	Robert Jaeger
+Platform(s)	Apple II, Atari 2600, Atari 5200, Atari 8-bit, ColecoVision, Commodore 64, IBM PC, Master System
+As Panama Joe:
+ZX Spectrum
+Release	
+NA: 1984
+Genre(s)	Platform
+Mode(s)	Single-player
+Montezuma's Revenge is a 1984 platform game for Atari 8-bit family, Atari 2600, Atari 5200, Apple II, ColecoVision, Commodore 64, IBM PC (as a self-booting disk), and ZX Spectrum (as Panama Joe). It was designed and programmed by Robert Jaeger and published by Parker Brothers. The game's title references a colloquial expression for diarrhea contracted while visiting Mexico.
+In 1988, a port was published for the Master System, which retains the basic gameplay and level structure, but with improved graphics, sound, and additional features.
+
+Gameplay
+Montezuma's Revenge is an early example of the Metroidvania genre.[1] The player controls a character called Panama Joe (a.k.a. Pedro), moving him from room to room in the labyrinthine underground pyramid of the 16th century Aztec temple of emperor Montezuma II, filled with enemies, obstacles, traps, and dangers. The objective is to score points by gathering jewels and killing enemies along the way. Panama Joe must find keys to open doors, collect and use equipment such as torches, swords, amulets, etc., and avoid or defeat the challenges in his path. Obstacles are laser gates, conveyor belts, disappearing floors and fire pits.[2][3][4]
+Movement is achieved by jumping, running, sliding down poles, and climbing chains and ladders. Enemies are skulls, snakes, and spiders. The player has a limited number of inventory slots for carrying items, and cannot collect any other items or jewels if all slots are filled. A further complication arises in the bottom-most floors of each pyramid, which must be played in total darkness unless a torch is found.
+The pyramid is nine floors deep, not counting the topmost entry room that the player drops into at the start of each level, and has 99 rooms to explore. The goal is to reach the Treasure Chamber, whose entrance is in the center room of the lowest level. After jumping in here, the player has a short time to jump from one chain to another and pick up as many jewels as possible. However, jumping onto a fireman's pole will immediately take the player to the next level; when time runs out, the player is automatically thrown onto the pole.
+There are nine difficulty levels in all. Though the basic layout of the pyramid remains the same from one level to the next, small changes in details force the player to rethink strategy. These changes include:
+The player can reach only the left half of the pyramid in level 1, and only the right half in level 2. Starting with level 3, the entire pyramid is open for exploration.
+The sound track of the game for the Atari 8 bit computer is a musical adaptation of Spanish Flea and the first few notes of La Cucaracha when collecting items.
+
+Development
+Robert Jaeger had previously written Chomper (a Pac-Man clone) and Pinhead (a Kick Man clone).[5] In 1983, Jaeger's friend Mark Sunshine suggested Jaeger make a game with a Meso-American theme and call it Montezuma's Revenge.[5] Jaeger, who was only 16 at the time, exhibited the still-unfinished game with his father at a consumer electronics convention. Parker Brothers officials expressed interest and quickly convinced Jaeger to sign the rights over to them.[5] On the title screen of the shipping game, Mark Sunshine is credited for the concept.[5]
+The original game that Jaeger developed for the Atari 800 required 48K of memory. Parker Brothers wanted to release the game on cartridge, so they trimmed it down to fit in 16K. One feature removed from the disk version was an unfinished boss fight with a gigantic King Montezuma who can stomp the player character to death.[6][7]
+Parker Brothers released versions for the ColecoVision, Atari 2600, and Atari 5200 consoles, and for the Apple II, Commodore 64, IBM PC, and Atari 8-bit computers. To reduce costs, Parker Brothers released the Commodore 64 and Atari 8-bit versions on disk instead of cartridge. In the UK and Ireland it was also released on cassette tape for the Atari and Commodore 64 .[8] The C64 and Atari versions came on a single flippy disk–likewise for the IBM PC and Apple II versions.
+The IBM PC port uses a CPU-based speed loop and is too fast to be playable on 286 and up machines.[9] A cassette tape version was developed separately in the UK for the Sinclair Spectrum. The Atari 2600 cartridge is 8K and has half the levels of the other versions.
+
+Reception
+Computer and Video Games rated the ColecoVision version 87% in 1989.[10]
+The games sold over 600,000 copies by 1997.[11]
+
+Legacy
+In 1998 a 3D first-person game was developed for Microsoft Windows by Utopia Technologies called Montezuma's Return! A 2D version for the Game Boy and Game Boy Color was developed by Tarantula Studios.
+An enhanced version of Montezuma's Revenge was released for iOS and Android.
+Atari 2600 games were used as challenges for Artificial intelligence researchers. In 2013, progress was made on general algorithms which could learn to play multiple games, but they failed on Montezuma's Revenge and Pitfall!.[12][13] In 2018, researchers from OpenAI made progress on Montezuma's Revenge.[14][15] Later in the year Uber developed Go-Explore, a new approach to reinforcement learning, which could easily handle both of these games.[16][17]
+A remake titled Montezuma’s Revenge 40th Anniversary Edition is currently in development. Robert Jaeger is involved with the production. A previously unreleased Director's Cut version of the original game is planned to be included with the remake.[18]
