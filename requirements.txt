@@ -1,0 +1,5 @@
+openai
+nltk
+gensim
+language_tool_python
+textstat
