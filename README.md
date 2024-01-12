@@ -1,6 +1,6 @@
 # Wiki-Generation
 
-This is the repo for NLPDL 2023 Fall Final Project: Wiki Generation.
+This is the repo for NLPDL 2023 Fall Final Project: Wiki Generation. In this project, we make an attempt to use GPT-4 to generate wiki documents with high quality. We test GPT-4 on 6 different keywords chosen from various areas and domains, and compare the performance over four methods. We collect proper datasets based on the keywords, adding with denoising techniques. We evaluate both the denoised passages and the generated documents with proper metrics, and results show that GPT-4 has the ability of generating wiki documents with high quality overall. We also apply some prompting techniques, including CoT and ICL, which have demonstrated effectiveness in enhancing the ability of LLMs for better wiki generation.
 
 ## Setup
 ```
