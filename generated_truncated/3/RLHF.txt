@@ -1,0 +1,42 @@
+Reinforcement Learning from Human Feedback (RLHF)
+
+This article is about the machine learning training method. For broader coverage of reinforcement learning, see Reinforcement learning.
+
+Reinforcement Learning from Human Feedback (RLHF) is a pioneering methodology in the field of artificial intelligence (AI) that integrates human judgment into the reinforcement learning (RL) paradigm to train machine learning (ML) models, particularly in applications such as natural language processing. RLHF has been instrumental in improving the alignment of AI behavior with nuanced human values and preferences.
+
+Overview
+Reinforcement learning, a subset of machine learning, involves training an agent to make decisions by interacting with its environment to maximize a cumulative reward. Traditional RL is effective for tasks with clear, quantifiable objectives such as game playing; however, when outcomes are more subjective, such as in language generation, it benefits from the injection of human insight. RLHF addresses this challenge by using human feedback to help define reward functions and make the training process more reflective of human norms and preferences.
+
+Process
+The RLHF process typically includes several phases:
+Pretraining: A language model is initially trained on a large dataset of text to learn language patterns.
+Reward modeling: Human evaluators provide feedback on the AI's generated text, informing the model of preferred outcomes.
+Reinforcement learning: The pre-trained language model is fine-tuned using a reward model based on human feedback to encourage generation of more desirable text.
+Iterative refinement: The process can be repeated, refining the model with additional human feedback and reinforcement learning cycles.
+
+Importance
+RLHF is crucial for tasks where the right action is not determined solely by data but requires human judgment, such as determining the appropriateness or helpfulness of responses in conversational AI. By aligning AI behaviors with human values, RLHF helps build more trustworthy, reliable, and user-friendly AI systems.
+
+Applications
+RLHF is mainly applied in the domain of natural language understanding and generation where traditional RL faces limitations in replicating human-like subtleties. Notable implementations of RLHF include OpenAI's ChatGPT, which utilizes this methodology to provide more accurate and contextually appropriate responses in human-AI interactions.
+
+Limitations
+The scalability of RLHF can be challenging as it relies on potentially costly and time-consuming human input. This reliance poses difficulties for small organizations and may introduce biases present in human evaluators. The method also requires a careful design of the feedback process to prevent overfitting or misalignment of the model's behavior.
+
+See also
+Natural Language Processing
+Machine Learning
+Reinforcement Learning
+Chatbot
+Human-in-the-Loop
+
+References
+Sutton, R.S., & Barto, A.G. (2018). Reinforcement Learning: An Introduction. The MIT Press.
+Leike, J., et al. (2018). Scalable agent alignment via reward modeling: a research direction. arXiv:1811.07871.
+Irpan, A. (2018). Deep reinforcement learning doesn't work yet. [Blog post] Retrieved from Alex Irpan's blog.
+Christian, B. (2020). The Alignment Problem: Machine Learning and Human Values. W.W. Norton & Company.
+OpenAI. (2023). Reinforcement Learning with Human Feedback (RLHF). [Blog post] Retrieved from OpenAI Blog.
+
+Categories: Artificial Intelligence | Machine Learning | Reinforcement Learning | Natural Language Processing | Computational Linguistics | Human-Computer Interaction
+This page was last edited on 10 April 2023, at 13:45 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.

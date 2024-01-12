@@ -1,0 +1,43 @@
+MoM
+
+This article is about the modularity of mind. For other uses, see MoM (disambiguation).
+
+The modularity of mind (MoM) is a concept in cognitive science that suggests that the mind is divided into distinct, specialized modules, each responsible for different types of cognitive processing. This view contrasts with traditional notions of a more holistic, unified cognitive process.
+
+Definition and Characteristics
+A mental module is characterized by several distinct features, including domain-specificity, mandatory operation, fast processing, and informational encapsulation. Proponents of the modularity hypothesis argue that modules are innate structures, genetically hardwired in the brain, and largely autonomous from one another.
+
+Historical Development
+The idea of mental modularity can be traced back to the 19th century, with the work of scientists who correlated specific cognitive dysfunctions with brain damage in particular areas. The modern concept was significantly advanced by Jerry Fodor in his 1983 book "The Modularity of Mind," which systematized the notion into a comprehensive framework.
+
+Fodor's Model
+Fodor identified three principal components of cognitive architecture: transducers, input systems, and central systems. He proposed that input systems—those responsible for basic sensory processing—exhibited modularity, while central systems—such as reasoning and problem-solving—did not. According to Fodor's theory, input modules possess specific properties like speed and encapsulation and operate on only a limited range of inputs, performing dedicated functions.
+
+Post-Fodorian Modularity
+In the wake of Fodor's work, the field saw an expansion of modularity theory, particularly within evolutionary psychology. Proponents of this expanded view, termed massive modularity, argue that even high-level cognitive processes are modular. Philosophers and scientists such as Dan Sperber and Peter Carruthers have contributed to this debate by suggesting that modular design extends far beyond perception and language, encompassing all cognitive functions.
+
+Challenges and Criticisms
+The modularity of mind hypothesis faces significant debate and criticism. One area of contention is the ambiguity in the definitions of modules and what constitutes modularity. Another challenge comes from neuroscientific findings that suggest cognitive processes are often interlinked and distributed across multiple brain regions, contradicting the idea of strict modular separation.
+
+Interdisciplinary Influence
+The concept of mental modularity is also influential beyond cognitive science. It has been discussed within the context of philosophy of science, epistemology, ethics, and philosophy of language, reflecting its broader significance in understanding human cognition and behavior.
+
+Contemporary Relevance
+Currently, the modularity hypothesis remains a focal point for research into the structure and functionality of the mind. It has inspired inquiries into the neural bases of cognitive processes and has underscored the importance of evolutionary considerations in psychological theory.
+
+Conclusion
+While consensus on the extent of modularity continues to evolve, the idea that cognitive functions might be better understood through a modular lens has had lasting effects on cognitive science. The hypothesis has spurred significant research efforts into exploring the natural organization and limitations of the human mind, contributing to ongoing dialogues within the field.
+
+References
+Article References and Further Reading:
+- Fodor, J. A. (1983). The Modularity of Mind. Cambridge, MA: MIT Press.
+- Carruthers, P. (2006). The Architecture of the Mind. Oxford University Press.
+- Sperber, D. (2002). In defense of massive modularity. In E. Dupoux (Ed.), Language, Brain, and Cognitive Development: Essays in Honor of Jacques Mehler. MIT Press.
+- Barrett, H. C., & Kurzban, R. (2006). Modularity in Cognition: Framing the Debate. Psychological Review, 113(3), 628–647.
+- Coltheart, M. (1999). Modularity and cognition. Trends in Cognitive Sciences, 3(3), 115–120.
+
+External links
+ Media related to MoM at Wikimedia Commons
+
+Authority control databases
+Categories: Cognitive science | Philosophy of mind | Evolutionary psychology | Psychology theories | Cognitive psychology | Modularity (psychology)

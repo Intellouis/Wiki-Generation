@@ -1,0 +1,27 @@
+Montezuma's Revenge (Video Game)
+------------------------------------------
+
+**Definition**
+Montezuma's Revenge is a platforming video game originally designed by Robert Jaeger and published by Parker Brothers in 1984. The game is named after the colloquial term for traveler's diarrhea, referencing the game's setting in South American indigenous civilizations.
+
+**Overview**
+Players control the character Panama Joe (originally named Pedro), navigating through a series of mazes representative of a Mesoamerican pyramid filled with obstacles, traps, and enemies. The primary objective is to collect valuable treasures while avoiding deadly hazards. The game is structured around a series of rooms connected by ladders, ropes, and poles, which the character can climb, descend, and slide down to explore the pyramid's many floors.
+
+**Gameplay Mechanics**
+The gameplay involves collecting keys to unlock doors, acquiring tools like swords and torches, and amassing points through discovering gems and other items. Players must maneuver around various threats, including snakes, spiders, and rolling skulls. Panama Joe can lose a life by falling from too great a height, touching enemies, or failing to avoid traps such as disappearing floors or laser gates.
+
+**Development History**
+Montezuma's Revenge was first developed on the Atari 8-bit family by Robert Jaeger as a 16-year-old and presented at the 1983 Consumer Electronics Show. After its acquisition by Parker Brothers, various limitations, including memory reduction and the removal of specific features such as music and the boss battle with Emperor Montezuma, led to the iteration known today. The game was ported to multiple platforms like Commodore 64, Sega Master System, and even modern consoles.
+
+**Impact and Legacy**
+The game is known for its difficulty, and its design elements have been compared to the modern Metroidvania genre with the exploratory focus, usage of items, and inventory management, despite its individual screen-based gameplay. Montezuma's Revenge is considered a pioneer in platforming adventure games and has influenced subsequent games with its unique blend of action, puzzle-solving, and exploration.
+
+**Revival**
+In recent years, Montezuma's Revenge has experienced a resurgence, including a Kickstarter-funded NES version and a reimagined version available on Steam, which features modern graphical updates alongside classic graphics. The NES cartridge release and availability on various digital platforms have introduced the title to a new generation of players, maintaining the game's notorious challenge while celebrating its historical significance in video game history.
+
+**References**
+Jaeger, R. (1984). Montezuma's Revenge [Game]. Parker Brothers.
+Cognoscenti, K. (2023). Episode 19: Montezuma's Revenge. Homebrew Insights.
+Nami Tentou. (2023). Montezuma’s Revenge: 8-Bit Edition [Game Review]. Nintendo eShop.
+SYMLiNK.dk. (2023). Montezuma's Revenge Game Maps. Game Cartography.
+NormalDistribution.com. (2023). Modern Revival of Montezuma's Revenge.
