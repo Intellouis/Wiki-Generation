@@ -1,0 +1,93 @@
+task = GreatWall.txt
+
+ >>> vanilla
+Grammar Errors: 14               Readability Score: 36.52
+
+ >>> CoT
+Grammar Errors: 19               Readability Score: 41.19
+
+ >>> ICL
+Grammar Errors: 9               Readability Score: 52.09
+
+ >>> predefined
+Grammar Errors: 4               Readability Score: 40.48
+
+ 
+ 
+ task = RLHF.txt
+
+ >>> vanilla
+Grammar Errors: 2               Readability Score: 16.02
+
+ >>> CoT
+Grammar Errors: 12               Readability Score: 22.82
+
+ >>> ICL
+Grammar Errors: 3               Readability Score: 24.37
+
+ >>> predefined
+Grammar Errors: 3               Readability Score: 37.91
+
+ 
+ 
+ task = whale.txt
+
+ >>> vanilla
+Grammar Errors: 3               Readability Score: 39.97
+
+ >>> CoT
+Grammar Errors: 8               Readability Score: 54.12
+
+ >>> ICL
+Grammar Errors: 17               Readability Score: 44.03
+
+ >>> predefined
+Grammar Errors: 9               Readability Score: 50.02
+
+ 
+ 
+ task = luxun.txt
+
+ >>> vanilla
+Grammar Errors: 12               Readability Score: 39.16
+
+ >>> CoT
+Grammar Errors: 4               Readability Score: 38.55
+
+ >>> ICL
+Grammar Errors: 27               Readability Score: 46.47
+
+ >>> predefined
+Grammar Errors: 27               Readability Score: 39.47
+
+ 
+ 
+ task = MoM.txt
+
+ >>> vanilla
+Grammar Errors: 19               Readability Score: 42.11
+
+ >>> CoT
+Grammar Errors: 15               Readability Score: 42.0
+
+ >>> ICL
+Grammar Errors: 3               Readability Score: 39.03
+
+ >>> predefined
+Grammar Errors: 5               Readability Score: 47.59
+
+ 
+ 
+ task = montezuma.txt
+
+ >>> vanilla
+Grammar Errors: 5               Readability Score: 24.07
+
+ >>> CoT
+Grammar Errors: 9               Readability Score: 39.33
+
+ >>> ICL
+Grammar Errors: 6               Readability Score: 44.54
+
+ >>> predefined
+Grammar Errors: 9               Readability Score: 39.94

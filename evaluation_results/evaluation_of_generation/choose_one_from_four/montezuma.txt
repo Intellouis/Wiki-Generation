@@ -1,0 +1,23 @@
+Certainly! After evaluating the four passages based on fluency, understanding, and structure, here’s how they rank:
+
+1. Document 1 (Montezuma's Revenge (Video Game))
+   - Fluency: The text is well-composed with smoothly flowing sentences.
+   - Understanding: The information is clearly presented, allowing for easy comprehension of the subject matter.
+   - Structure: The document is thoroughly structured, with distinct sections that guide the reader through various aspects of the game, such as its definition, overview, gameplay mechanics, development history, impact, and revival.
+
+2. Document 4 (Montezuma (c. 1466 – June 1520))
+   - Fluency: The narrative flows without any disruption, maintaining reader engagement.
+   - Understanding: Each section provides clear and comprehensible information about Montezuma's life and reign.
+   - Structure: It follows a logical structure, starting from an introduction, a historical or biographical section, detailed explanations, debates, broad impact, and neatly ending with references.
+
+3. Document 2 (Montezuma)
+   - Fluency: The passage reads well overall, though slightly less smooth than Documents 1 and 4.
+   - Understanding: The document effectively communicates the historical significance of both Montezumas.
+   - Structure: It is well-organized, using headings and subheadings to break up content into manageable parts, including historical context, main content, impact, legacy, and references.
+
+4. Document 3 (Montezuma)
+   - Fluency: While mostly fluid, the narrative transitions between topics are a bit less polished.
+   - Understanding: It presents a decent understanding but includes some elements that might potentially confuse, such as the "See also" section typically found in online wiki articles.
+   - Structure: The structure is not as cohesive as in the other documents. It combines a mix of history, cultural impact, and in-text references often found in wiki-style formats, which can be slightly less organized for traditional encyclopedia documentation.
+   
+The ranking reflects the relative effectiveness of each document in each of the specified metrics: fluency, understanding, and structure. Document 1 ranks highest due to its combination of readability, clear meaning, and strong organization, while Document 3, despite providing useful information, has a less formal and slightly disjointed structure compared with the others.

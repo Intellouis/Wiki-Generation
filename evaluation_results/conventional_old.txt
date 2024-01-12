@@ -1,0 +1,93 @@
+task = GreatWall.txt
+
+ >>> vanilla
+Readability Score: 43.02
+
+ >>> CoT
+Readability Score: 36.08
+
+ >>> ICL
+Readability Score: 34.46
+
+ >>> predefined
+Readability Score: 27.56
+
+ 
+ 
+ task = RLHF.txt
+
+ >>> vanilla
+Readability Score: 7.96
+
+ >>> CoT
+Readability Score: 14.19
+
+ >>> ICL
+Readability Score: 16.22
+
+ >>> predefined
+Readability Score: 23.36
+
+ 
+ 
+ task = whale.txt
+
+ >>> vanilla
+Readability Score: 27.96
+
+ >>> CoT
+Readability Score: 32.53
+
+ >>> ICL
+Readability Score: 47.28
+
+ >>> predefined
+Readability Score: 54.73
+
+ 
+ 
+ task = luxun.txt
+
+ >>> vanilla
+Readability Score: 31.72
+
+ >>> CoT
+Readability Score: 37.2
+
+ >>> ICL
+Readability Score: 44.54
+
+ >>> predefined
+Readability Score: 40.89
+
+ 
+ 
+ task = MoM.txt
+
+ >>> vanilla
+Readability Score: 9.99
+
+ >>> CoT
+Readability Score: 42.51
+
+ >>> ICL
+Readability Score: 20.68
+
+ >>> predefined
+Readability Score: 20.89
+
+ 
+ 
+ task = montezuma.txt
+
+ >>> vanilla
+Readability Score: 34.15
+
+ >>> CoT
+Readability Score: 33.34
+
+ >>> ICL
+Readability Score: 36.39
+
+ >>> predefined
+Readability Score: 58.48

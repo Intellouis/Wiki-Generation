@@ -1,0 +1,15 @@
+**Fluency:**
+The given text maintains a high level of fluency throughout the passage. It reads smoothly with no noticeable errors or polluted text. Each sentence follows logically from the one before, creating a coherent and engaging narrative. There appears to be no extraneous or out-of-place information that would break the flow of reading.
+Rating: 10/10
+
+**Understanding:**
+The document is clearly written and quite user-friendly. It provides succinct definitions, context, and explanations that give the reader a sound understanding of the subjects at hand, specifically about the two Aztec emperors named Montezuma. The language is accessible, avoiding over-complex terms that might confuse the reader while still maintaining an academic tone suitable for an encyclopedia article.
+Rating: 9/10
+
+**Structure:**
+The document is well-structured, with a logical and clear organization. It starts with a brief introduction to Montezuma, followed by a disambiguation notice. It then offers a detailed etymology of the name, separate sections for Montezuma I and II, a section on Legacy, and their depiction in popular culture. It ends with a See Also list, references, and links to related resources, which is proper for an encyclopedia document. However, the structure could be slightly improved by adding subheadings within the sections for Montezuma I and II to better delineate aspects of their reigns, like 'Rule', 'Conquests', 'Religious Influence', and 'Downfall.'
+Rating: 9/10
+
+**Overall Score:**
+The document combines fluency, understanding, and structure effectively. It is a well-presented, informative piece appropriate for an encyclopedia. Minor improvements could be made in the structuring for easier navigation and emphasis on specific aspects of the emperors' reigns, but overall, the document serves its purpose well.
+Overall Score: 9.3/10
