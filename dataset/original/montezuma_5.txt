@@ -1,0 +1,72 @@
+Montezuma’s Revenge
+2023-Jan-16Console Gaming, GameMaker TutorialsComments
+Originally released in 1983, Montezuma’s Revenge is an early platforming game released on a number of home consoles and personal computers. The game’s title is an allusion to the nickname given to traveler’s diarrhea, which was (is?) common when traveling south of the US-Mexico border. People will advise “don’t drink the water” because if you do, without first boiling it or whatever, you’ll end up with dysentery. So, haha, they named a video game “Diahrea”. Brilliant. And probably offensive to South Americans, too. Or at least the Aztecs.
+
+I knew if from its Atari 5200 release. My cousin’s family had the Atari 5200, and whenever I would visit over there, we would get to play the games they had.
+
+
+These screen caps are from the Colecovision port, but only a real geek would know the difference… and no, this isn’t my playthrough, I’m not that good at the game.
+The Atari 5200 boasted superior graphics to the Atari 2600 we knew and loved at home. But it also had shitty, non-centering analog joysticks that made many games harder to play. With a centering joystick, you can release the stick and it returns to center, and all directional input stops. With the 5200 joystick, you had to physically push the stick back in the center, stopping exactly in the “dead zone” where no input is registered — which took a great deal more precision and skill to master. As a result, in a game situation where you wanted to get to some exact spot and then stop on a time, you’d either overshoot your target, or you’d pull back and reverse course or end up drifting slightly in one of the other directions. Either way, it wasn’t good, and usually resulted in disaster — a lost life, or a game over.
+
+Because of the joysticks, I could never do very well at the game, but my cousin had full-time access to the system, and was able to master the controls, and could beat the game without dying. I could only appreciate his skill and enjoy watching him show us how to get through the various screens full of death traps.
+
+Montezuma’s Revenge was also released on Colecovision, Commodore 64, Sega Master System, Apple ][, Atari 8-bit computers, MS-DOS, and even… the Atari 2600, as I would find out some 30+ years later. Had I known, I might have played it more and appreciated it more, and on a system with a decent joystick, I’m sure I would have mastered it myself.
+
+Montezuma’s Revenge was hard. It was what I like to call “Fuck You Hard”. Games in the 80s were often Fuck You Hard, but Montezuma’s Revenge was one of the fuckiest Fuck You Hard games out there. You’ve probably heard of “Nintendo Hard” and seen games like Ghosts N Goblins, you know what I’m talking about. But this was before Nintendo came on the scene, and the only way to describe the difficulty of this game was FU Hard.
+
+You can die in so many different ways in this game. And many of them look confusingly like other things that you need to do in order to avoid dying. If I tried to count them all, I’m sure I’d miss at least half of them. But, here, I’ll try:
+
+There’s snakes (stationary obstacles you jump over) and spiders (crawling obstacles you jmp over), skulls that roll along the floor (guess what, you jump over them), skulls that bounce around (you’re better off running under these), pits full of fire (jump over), electrified wall barriers (careful timing to slip past while they’re down), disappearing floors (covering pits of fire, again more timing or jumping to survive), and, of course, any time you fall more than a rather short distance, you’d die from that too. There’s ledge jumps spaced so that they look like you can make it, but you really can’t. So jumping is often risky.
+
+But there’s certain places where you can jump, and fall a longer-than-safe distance, as long as you catch a rope in mid-air rather than land on the hard floor. But nothing tells you this, you just have to discover, after dying from falls probably dozens of times, that there’s screens where you have to fall a deadly amount of distance as you jump from a high ledge to a safe rope. But… now, get this… if you walk off a ledge, you carry NO horizontal momentum, and will fall immediately straight down. But you can jump sideways, and carry your horizontal momentum through your fall. So at these ledges, you can’t just run off and catch the rope, you have to run, jump, and then catch the rope. Because F U.
+
+And those disappearing floors, they sometimes flicker, seemingly at random, off and on, and it might be long enough for you to cross the pit, but just as well might only last a tenth of a second, and kill you just because this game is F U Hard. But the disappearing floors and the disappearing electrical barriers are both colored the same way, and yet it was deadly to touch the barriers and safe to walk on the floors. So that was counter-intuitive and seemed unfair. Like, you’re just supposed to know that it’s necessary to step on the glowing blue floors that disappear, but it’s deadly to touch the glowing blue walls. Makes sense, right?
+
+Oh, and there’s conveyor belt floors that will make your jump timing and distance super tricky, meaning you’ll probably die a bunch of times because of that. Because this game is F U Hard.
+
+
+If you could fall more than 3 feet without dying, this wouldn’t be so bad…
+And there were places where you could either drop off a ledge, or climb down a ladder, and the ledge height didn’t really look unsafe, but if you tried jumping, you died — the only safe way down was the ladder, sucker.
+
+
+In a hurry? Looks safe to jump, but don’t try it… only the ladder is safe.
+And it was the fiendish arrangement of these things that made them all the more deadly. Slightly mistiming or miscalculating your moves would almost always be fatal. And whenever you died, the game would put you back at the point at which you entered the current room. If you died from touching a skully, snake, or spider, that one enemy would be removed from the screen, and you could try again. If you died from falling, or an unfortunate encounter with fire or electricity, you didn’t even get that. And some of the rooms were filled with a good dozen or so ways to die if you made even one little mistake.
+
+
+Just look at this jump… You’d think you could maybe reach that disappearing blue platform hovering above you. But no, that’s too high to reach, and if you try to land there, you’ll fall down into the pit and die. You can only jump to the ledge at the right side, and then you can jump back left onto the disappearing ledge, and then you have to turn around quickly and jump to the next ledge, before the disappearing platform you’re now standing on disappears, but also not jump into the skull that’s rolling back and forth on the next platform… Totally brutal.
+
+And no, you can’t just walk off the ledge above and land here safely… Instead, you must leap to those ropes on the right side, over the deadly fire pit, and then jump back to the left. Because that seems safer, right?
+Just safely jumping from platform to platform and avoiding the flames, skulls, and poisonous critters isn’t hard enough. You have to do that AND have the right number of the right colored keys to open the locked doors you’ll find, and if you don’t have the right keys, you’ll have to go back and find them — going through all those deadly obstacles over again, and backwards.
+
+To make things worse, there’s a few rooms in the pyramid that are identical to each other, making it likely that you’ll get disoriented and think that you’ve looped around somehow… nope. It’s just to mess with your head, and get you to turn back and go the wrong way.
+
+And just when you think you’re feeling comfortable with these things, the game throws dark rooms at you, where you can’t see the walls, making any gaps in the floor that might be there invisible.
+
+
+Are there any pits?
+This game doesn’t just fuck you. It fucks your mom.
+
+And the only way to get through it is to get good.
+
+The brutal difficulty made it difficult for me to appreciate all of the things this game did that were innovative. But, especially in hindsight, this game did a lot of really cool things that paved the way for the smash-hit Super Mario Bros. the following year.
+
+First, you had a simple inventory system. You could carry up to 5 slots of items ranging from different colored keys to torches and swords.
+
+These were just things you carried until they were consumed, there was no button to press to select them or use them. Keys were single-use items that opened color-corresponding doors found throughout the game. Swords were single-use items that could save you from a deadly encounter with a skull, spider, or snake. Torches were used immediately upon obtaining them, and conferred temporary invincibility to death from deadly creatures. (I guess the idea was that the torch allowed you to see better, and so avoid them?)
+
+You could also find treasures, in the form of huge gems, that you could collect for points, but the treasures didn’t go into your inventory — they just added to your score. Enough points, and you could earn an extra life. And you needed those, because of all the death.
+
+The level design wasn’t just run and jump past obstacles, it required having an understanding of the spatial relationship between the screens, knowing where you could find keys, and figuring out how to get through the pyramid using an optimal path that conserved keys, let you have the right colored keys at the right time, and avoided unnecessary backtracking, and avoided the most difficult of the jumping puzzles. Considering the soft-locking that the colored doors represent, you could make a case that Montezuma’s Revenge had some early pre-Metroidvania aspects to it.
+
+I didn’t play the game enough to be able to notice it back in the day, but the level design of the game lays out a series of single-screen rooms arranged in the shape of a pyramid, which is neat if you do happen to notice it, because it reinforces the idea that you’re a treasure hunter exploring a meso-American pyramid. And also tells you that, if you know how high up in the pyramid you are, you also have some idea how wide the floor of the pyramid you’re on is. Which may help you to figure out how to get through the pyramid better.
+
+
+About to win.
+Want to win? Just jump into the middle of this huge flaming pit of death…
+If you can make it all the way through a level, you’re rewarded with a treasure room, a free zone where you can try to grab as many gemstones as possible before you inevitably fall through a bottomless pit that warps you to the start of the next level, where you can do it all over again. It’s a bit like the Coin Heaven secret areas in Super Mario Bros., only a year ahead of when SMB was released.
+
+
+Back at the beginning… but 80,000 points richer!
+The original developer of Montezuma’s Revenge recently completed a kickstarter to release an NES port of the game, and as well released the game on Steam, with both updated and classic graphics, and now available through NormalDistribution.com. I’ve been playing the Steam build, and it’s still hard as fuck, and I wish they gave you some way of cheating, infinite lives or invulnerability mode or something. But it’s worth a look to appreciate the design of the game.
+
+My copy of the NES cartridge is due to be delivered tomorrow. I bet I still can’t beat it.

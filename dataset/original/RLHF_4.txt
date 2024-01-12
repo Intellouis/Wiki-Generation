@@ -1,0 +1,85 @@
+What is reinforcement learning from human feedback (RLHF)?
+By Ben Dickson -January 16, 2023
+
+ Facebook Twitter ReddIt Linkedin
+reinforcement learning from human feedback
+This article is part of Demystifying AI, a series of posts that (try to) disambiguate the jargon and myths surrounding AI.
+
+Since OpenAI released ChatGPT, there has been a lot of excitement about advances in large language models (LLM). While ChatGPT is around the same size as other state-of-the-art LLMs, its performance is far superior. And it already promises to enable new applications or disrupt old ones.
+
+One of the main reasons behind ChatGPT’s amazing performance is its training technique: reinforcement learning from human feedback (RLHF). While it has shown impressive results with LLMs, RLHF dates to the days before the first GPT was released. And its first application was not for natural language processing.
+
+Here is what you need to know about RLHF and how it applies to large language models.
+
+What is RLHF?
+Reinforcement learning is a field of machine learning in which an agent learns a policy through interactions with its environment. The agent takes actions (which can include not doing anything at all). These actions affect the environment the agent is in, which in turn transitions to a new state and returns a reward. Rewards are the feedback signals that enable the RL agent to tune its action policy. As the agent goes through training episodes, it adjusts its policy to take sequences of actions that maximize its reward.  
+
+Reinforcement learning
+Designing the right reward system is one of the key challenges of reinforcement learning. In some applications, the reward is delayed long into the future. Consider an RL agent for playing chess. It only receives a positive reward after it beats its opponent, which can take dozens of moves. In this case, the agent will waste a lot of its initial training time making random moves until it accidentally stumbles on a winning combination. In other applications, the reward can’t even be defined by a mathematical or logical formula (more on this when we talk about language models).
+
+
+Reinforcement learning from human feedback enhances the RL agent’s training by including humans in the training process. This helps account for the elements that can’t be measured in the reward system.
+
+Why don’t we always do RLHF? For one thing, it scales badly. One of the important advantages of machine learning in general is its ability to scale with the availability of computational resources. As computers grow faster and data becomes more available, you can train bigger machine learning models at faster rates. Relying on humans to train RL systems becomes a bottleneck.
+
+Therefore most RLHF systems rely on a combination of automated and human-provided reward signals. The computational reward system provides the main feedback to the RL agent. The human supervisor either helps by providing an extra reward/punishment signal occasionally or the data needed to train a reward model.
+
+RLHF example
+Example of reinforcement learning from human feedback (Image source: cs.utexas.edu)
+Say you want to create a robot that cooks pizza. You can integrate some of the measurable elements into the automated reward system (e.g., crust thickness, amount of sauce and cheese, etc.). But to make sure that the pizza is delicious, you have a human taste and score the pizzas that the robot cooks during training.
+
+Language as a reinforcement learning problem
+Large language models have proven to be very good at multiple tasks, including text summary, question answering, text generation, code generation, protein folding, and more. At very large scales, LLMs can do zero- and few-shot learning, accomplishing tasks that they haven’t been trained for. One of the great achievements of the transformer model, the architecture used in LLMs, is its ability to train through unsupervised learning.
+
+However, despite their fascinating accomplishments, LLMs share a fundamental characteristic with other machine learning models. At their core, they are very large prediction machines designed to guess the next token in a sequence (the prompt). Trained on a very large corpus of text, LLMs develop a mathematical model that can produce long stretches of text that are (mostly) coherent and consistent.
+
+The big challenge of language is that in many cases, there are many correct answers to a prompt. But not all of them are desirable depending on the user, application, and context of the LLM. Unfortunately, unsupervised learning on large text corpora does not align the model with all the different applications it will be used in.
+
+reinforcement learning for large language models
+Fortunately, reinforcement learning can help steer LLMs in the right direction. But first, let’s define language as an RL problem:
+
+Agent: The language model is the reinforcement learning agent and must learn to create optimal text output.
+
+Action space: The action space is the set of possible language outputs that the LLM can generate (which is extremely large).
+
+State space: The state of the environment includes the user prompts and the outputs of the LLM (also extremely large space).
+
+Reward: The reward measures the alignment of the LLM’s response with the context of the application and the intent of the user.
+
+All the elements in the above RL system are trivial except for the reward system. Unlike chess or Go or even robotics problems, the rules for rewarding the language model are not well defined. Fortunately, with the help of reinforcement learning from human feedback, we can create a good reward system for our language model.
+
+RLHF for language models
+RLHF for language models consists of three phases. First, we start with a pre-trained language model. This is very important because LLMs require a huge amount of training data. Training them from scratch with human feedback is virtually impossible. An LLM that is pre-trained through unsupervised learning will already have a solid model of the language and will create coherent outputs, though some or many of them might not be aligned with the goals and intents of users.
+
+In the second phase, we create a reward model for the RL system. In this phase, we train another machine learning model that takes in the text generated by the main model and produces a quality score. This second model is usually another LLM that has been modified to output a scalar value instead of a sequence of text tokens.
+
+To train the reward model, we must create a dataset of LLM-generated text labeled for quality. To compose each training example, we give the main LLM a prompt and have it generate several outputs. We then ask human evaluators to rank the generated text from best to worst. We then train the reward model to predict the score from the LLM text. By being trained on the LLM’s output and ranking scores, the reward model creates a mathematical representation of human preferences.
+
+RLHF LLM reward model
+In the final phase, we create the reinforcement learning loop. A copy of the main LLM becomes the RL agent. In each training episode, the LLM takes several prompts from a training dataset and generates text. Its output is then passed to the reward model, which provides a score that evaluates its alignment with human preferences. The LLM is then updated to create outputs that score higher on the reward model.
+
+While this is the general framework of RLHF for language models, different implementations make modifications. For example, since updating the main LLM is very expensive, machine learning teams sometimes freeze many of its layers to reduce the costs of training.
+
+Another consideration in RLHF for language models is maintaining the balance between reward optimization and language consistency. The reward model is an imperfect approximation of human preferences. Like most RL systems, the agent LLM might find a shortcut to maximize rewards while violating grammatical or logical consistencies. To prevent this, the ML engineering team keeps a copy of the original LLM in the RL loop. The difference between the output of the original and RL-trained LLMs (also called the KL divergence) is integrated into the reward signal as a negative value to prevent the model from drifting too much from the original output.
+
+How ChatGPT uses RLHF
+OpenAI has not released the technical details of ChatGPT (yet). But a lot can be learned from the ChatGPT blog post and details on InstructGPT, which also uses RLHF.
+
+ChatGPT uses the general RLHF framework we described above, with a few modifications. In the first phase, the engineers performed “supervised fine-tuning” on a pre-trained GPT-3.5 model. They hired a group of human writers and asked them to write answers to a bunch of prompts. They used the dataset of prompt-answer pairs to finetune the LLM. OpenAI has reportedly spent a great sum on this data, which is partly why ChatGPT is superior to other similar LLMs.
+
+In the second phase, they created their reward model based on the standard procedure, generating multiple answers to prompts and having them ranked by human annotators.
+
+In the final phase, they used the proximal policy optimization (PPO) RL algorithm to train the main LLM. OpenAI does not provide further details on whether it freezes any parts of the model or how it makes sure the RL-trained model does not drift too much from the original distribution.
+
+ChatGPT training
+ChatGPT training process (source: OpenAI)
+The limits of RLHF for language models
+While a very efficient technique, RLHF also has several limitations. Human labor always becomes a bottleneck in machine learning pipelines. Manual labeling of data is slow and expensive, which is why unsupervised learning has always been a long-sought goal of machine learning researchers.
+
+In some cases, you can get free labeling from the users of your ML systems. This is what the upvote/downvote buttons you see in ChatGPT and other similar LLM interfaces are for. Another technique is to obtain labeled data from online forums and social networks. For example, many Reddit posts are formed as questions and the best answers receive higher upvotes. However, such datasets still need cleaning and revision, which is costly and slow. And there is no guarantee that the data you need is available in one online source.
+
+Big tech companies and solidly financed labs such as OpenAI and DeepMind can afford to spend huge sums on creating special RLHF datasets. But smaller companies will have to rely on open-source datasets and web scraping techniques.
+
+RLHF is also not a perfect solution. Human feedback can help steer LLMs away from generating harmful or erroneous results. But human preferences are not clear cut, and you can never create a reward model that conforms with the preferences and norms of all societies and social structures.
+
+However, RLHF provides a framework for better-aligning LLMs with humans. So far, we’ve seen RLHF at work with general-purpose models such as ChatGPT. I think RLHF will become a very efficient technique for optimizing smaller LLMs for specific applications.
