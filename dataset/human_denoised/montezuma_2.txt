@@ -1,0 +1,323 @@
+Episode 19: Montezuma's Revenge
+
+Introduction:
+
+Many of the stories behind the homebrew games shared here began years before their publication or even any real development, like Trophy by Gradual Games. Some celebrated homebrews are ports of beloved games from another time, like Ultimate Frogger Champion, among several of KHAN Games’ works. And sometimes these two narratives come together as a game with a long history is revisited and ported to a new console, with the blessing and oversight of its original creator, eager to keep its legend alive and fulfill a dream of bringing that game to the NES, a goal that has persisted for decades.
+
+For this entry, I’m sharing a sneak peek into the NES port of an old Atari classic, a platformer and proto-Metroidvania: Montezuma’s Revenge. As of the time of this writing, the game’s development nears completion through its original designer Robert Jaeger and his company Normal Distribution, with plans to launch a Kickstarter campaign in December 2021 through its publisher Second Dimension. As a result, this episode will be another mini-post focusing on the interviews with the development team to whet our appetities.
+
+ 
+
+Development Team:
+
+Robert Jaeger: project management
+
+Felipe Reinaud: programming
+
+
+OG Atari Artwork
+
+Game Evolution:
+
+Montezuma’s Revenge’s story begins back in 1983, when then-16-year old Robert Jaeger’s friend Mark Sunshine suggested Jaeger make a game with a Meso-American theme and call it Montezuma's Revenge, another name for what is commonly known as traveler’s diarrhea. Working day and night to program the game for the Atari 800, Jaeger and his dad showed off the finished game at their booth for Robert’s company Utopia Software at the 1983 (or possibly 1984) Consumer Electronics Show, attracting the attention of Parker Brothers. Although the original Atari 800 game took up 48k of memory, Parker Brothers wanted to reduce costs and fit the game onto disks and cartridges so they could release Montezuma’s Revenge for the Atari 800 as well as the Atari 2600, Atari 5200, ColecoVision, Apple II, Commodore 64, IBM PC, and Atari 8-bit computers. As a result, the officially released game was squeezed down to 16k. One known casualty of the trimming was an unfinished (and unwinnable) boss fight against a huge Emperor Montezuma who would stomp on you.
+
+
+Gameplay Overview:
+
+Montezuma’s Revenge is a platformer with Metroidvania qualities before either of those games existed. You control Panama Joe (a/k/a Pedro), an explorer inside the subterranean labyrinth of Aztec emperor Montezuma II’s pyramid. Your goal is to collect jewels and defeat the enemies who stand in your way. You must overcome the traps and obstacles meant to keep people like you out, while you seek the keys and equipment that will allow you to venture ever deeper into the treacherous maze.
+
+ 
+
+Interviews:
+
+For real insights into the game as it nears completion, I interviewed the NES port’s development team to get all the stories…
+
+ 
+
+
+Robert Jaeger
+
+-Before we dive into Montezuma’s Revenge, I would love to talk about you and your background. What first inspired you to become a game developer?
+
+Hi. Thanks for the interview. I was inspired by the 1st and 2nd generation of coin-op video games. I was an arcade kid from a very early age, starting with pinball, and by the time I was 11 (1978, Space Invaders) I knew for certain that I wanted to be a game developer. My first computer system was the Bally Astrocade. I started with Bally Basic, then z-80, then the 6502 with the Atari 800 computer. I also coded for the c64, Amiga, PC and others.
+
+ 
+
+-What is your origin story? What is the significance of the name Normal Distribution for you?
+
+Ah, this is a terrible name for a game developer. I don't think I've ever told this story. My software career has been split between games and fintech. Originally I was working on a "black-box" hedge fund trading system for stock options based on random number math, hence the name. The company is 100% games now.
+
+ 
+
+-Who are your influences? And whose work are you watching closely now?
+
+From the old days my influences were Bill Budge, Nasir Gebelli, later John Carmack. As far as games now I'm personally most interested in what's going on in VR because the headset has finally become affordable. There are individuals creating revolutionary products right now in the VR space.
+
+Bill Budge, he’s a pinball wizard, there has got to be a twist
+
+ 
+
+-What tools do you use to code and create?
+
+I'm very much a C++ guy these days. I haven't coded 6502 in decades. The rebooted cross-platform version of Montezuma (Steam, PC, iOS, Mac, Android) is based on open source Cocos2dx. For cross dev't I use many different compilers, but Microsoft tools have always been my favorite.
+
+ 
+
+-Montezuma’s Revenge was originally released in 1984. What inspired development of an NES port now?
+
+Felipe Reinaud is a very talented programmer and a huge fan of the game. He came to me with the proposal. I have always been very protective of the brand and I was very reluctant to proceed, but he proved his talent to me and wound up doing an outstanding job. NES Montezuma is a beautiful game.
+
+ 
+
+-Tell me about your creative process for designing and programming the game. What lessons can you share to others who want to learn to make their own games?
+
+It's hard to describe my creative process for games. Other than arcade game clones, every game product I've been involved with has evolved from what was a basic original idea. Technical discoveries and limitations frequently drive the development.
+
+One lesson is that if you want to create games, create games now! We have amazing free tools out there. Nothing should stop anyone from creating a great demo.
+
+The game dev't business is very difficult and competitive. If you love to code in general, other areas of computer programming are less difficult and more lucrative.
+
+ 
+
+-Do you feel that Montezuma’s Revenge has any qualities that are quintessentially you? How would you describe your aesthetic?
+
+OK, I love to play all kinds of games but I think I'd like to be known for games with good graphics and technology, some humor, difficult, only cartoony violence but most of all - FUN. In Electronics Games Magazine Bill Kunkle noted in 1984 that "Everything is big" which was exactly what I was going for. For its time, Montezuma had a big hero and big enemies.
+
+ 
+
+-Ever since my first blog episode, M-Tee planted this idea in my mind that a game’s protagonist serves as both the player's point of immersion in the game as well as a reflection of its designer. What was the intention behind the design of Panama Joe, and do you feel he reflects you in any way?
+
+The hero's original name was "Pedro" from the 1983 demo, and we're going forward with this name.  Pedro should be thought of as a Robin Hood type character - he most certainly will use those gems to help all of mankind! I recently told the true origin of Pedro: He actually was a gringo tourist who drank too much tequila and spent too much in the gift shop and then got lost. Montezuma is not a serious game - it's light-hearted good fun created by a game developer who, like Alan Watts, sometimes questions the seriousness of life itself.
+
+ 
+
+-What challenges or surprises surfaced in developing Montezuma’s Revenge? What new challenges emerged in porting it to the NES?
+
+There are many challenges specific to NES programming. Felipe had a difficult time squeezing Montezuma into a standard NES cartridge.
+
+ 
+
+-Parker Brothers trimmed down the original game to maximize marketing potential and limit piracy. Is the NES port closer to the original 16K Parker Brothers release or your original 48K version?
+
+This NES version will most closely resemble the other production versions, but rooms are a little different mainly due to how the NES handles character graphics. It's the game as it would have been if released as an NES game of the time.
+
+ 
+
+-Are there any other projects you have lined up on the horizon, NES or otherwise? Any dream projects? Collaborations? Plans to port Chomper or Pinhead to the NES?
+
+The original game demo also had an incomplete boss. We are currently working on another retro cartridge project for Atari computers which will be the "Director's Cut" - the original full vision, complete with boss challenges based on my original source code.
+
+The undefeatable King Montezuma boss left out of the original release
+
+Also, there are now free ad-supported versions "Montezuma's Revenge LITE" for mobile systems. We are continuing to improve the full rebooted versions available now for most computers and mobile devices.
+
+ 
+
+-Are there any homebrew games in development that you are excited to play?
+
+No, I don't follow the homebrew community as well as I should.
+
+ 
+
+-I really appreciate you taking the time to talk with me and share your experiences. Is there anything else you would like to tell readers and fans?
+
+I always thank the fans for keeping the game alive and really keeping my enthusiasm up. If you're interested in following the project, I tend to update first on https://www.facebook.com/MontezumasRevengeGame.
+
+If you want first crack at the NES version campaign when it's ready, please join the list at https://normaldistribution.com/nes-cartridge-contact-list/  
+
+Download links for the reboot: https://normaldistribution.com/download/
+
+Thanks!
+
+ 
+
+ 
+
+Felipe Renaud
+
+@DarkKodKod
+
+-Before we dive into Montezuma’s Revenge, I would love to talk about you and your background. What first inspired you to become a homebrewer? What is your origin story?
+
+What inspired me most to become a homebrewer was the work of Michael Chiaramonte https://www.youtube.com/c/MichaelChiaramonte. I saw that many amazing games were being made by normal people just like me. You didn't need talent or a huge background to start making your own game. However, it takes time to have something fun and playable and even longer to have an actual game to publish. I now have a nice collection of homebrew games like Eyra, Rollie, Nebs ‘n Debs, Lizard, etc. Those games are my real inspiration.
+
+It all started when I was a child and I played the Atari and later I got my very first game console, the NES. My dream back then was to become a game programmer one day and as a kid who grew up in Chile - it was like wanting to be an astronaut. Years later after finishing my degree in Computer Science, I had the opportunity to join the very first video game studio in Chile. Later, I worked on different consoles like the Xbox 360, PlayStation 3, Nintendo Wii, Nintendo DS and PC. I started learning and working on Banana Kong for Android and later porting it to iOS. Long story short, I eventually got hired at a company in Hamburg, Germany, and later I moved to Dusseldorf to work at Ubisoft where currently I am right now.
+
+Since I always wanted to make my own game, I decided one day that I would make a NES game. People were doing it - I knew I could do it too. I am really bad at designing games, so I thought of making a port of a well-known game for the old NES. I came up with the idea of porting one of the games I played as a child back when I played it on the Atari and the first game that came to my mind was Montezuma’s Revenge. That game in Chile was as important for Atari as Super Mario was for Nintendo. I reached Robert Jaeger on Facebook and after presenting myself and proving that I'm up to the challenge, we started working together on Montezuma’s Revenge, first for the Android and PC version and later on the NES version.
+
+ 
+
+-Who are your influences? And whose work are you watching closely now?
+
+Of course it is Robert Jaeger who made Montezuma’s Revenge for the Atari, that game is a masterpiece for its era. The only person I'm watching closely now is Michael Chiaramonte and his work on his own homebrew on his channel.
+
+Michael Chiaramonte being not so randomly random
+
+ 
+
+-How would you describe your design aesthetic, and what to you are the hallmarks of a game made by you?
+
+The game is a straight port, I didn't really change any aesthetic and that's totally fine. The idea is to make the game as close as possible to the original as if it were an early Nintendo game. It is using a NROM board, so only 40k of memory is available to fit the entire 9 pyramids of 100 rooms each plus new music. There were compromises and some design changes to fit into the NES aspect ratio and memory limitations. Let's say that games are designed based on the hardware they are running on. For Montezuma’s Revenge, it is making the best use of the Atari hardware and I had to translate that into what is capable of, the original Nintendo. For example if you are making a game for the NES, it is better to have all the background tiles designed to be 16 by 16 pixels like Super Mario Bros did. But for this game I could not do it that way because the game is expected to collide with 8x8 pixel tiles so I had to use more memory than I would normally use. I had to cut a little on some features as well, things that I wouldn’t have used if the game was designed initially for the NES. So hardware is a huge influence on the design aesthetic of a game and even though this is a straight port this was no exception.
+
+A nice feature of this game is even though I’m using a really limited board like the NROM, it doesn't use any fancy additional chip to animate tiles. I am updating multiple background tiles not all at the same time, but it sure seems like it and it looks close to the original and it feels like the original why you play it.
+
+ 
+
+-What tools do you use to code and create?
+
+I used Visual Studio Code with the extension Beeb VSC so it can color code a bit the source files and also adds the ability to press F7 to assemble and F9 to run. I use the tasks.json file on VS Code to run a bunch of tasks one after another from creating a folder to generate the .nes file and run it on the emulator. For assets I use my own tool created with WPF and C#. Here is the git repo if someone is interested, https://github.com/DarkKodKod/NESTool. The idea was to have a generic asset tool independent from any particular game so I used that to handle and convert the images into animated sprites, backgrounds and banks for the pattern tables.
+
+ 
+
+-In addition to your homebrewing, you are programmer by profession. In what ways is your professional work similar to or different compared to your indie/homebrew work?
+
+Developing software is always the same, no matter if it is business-oriented software or a game or a game for a 40 years old machine. You have to have a design, a plan and write clean code for everybody to understand - even if you were writing this code yourself and nobody else will look at it. By keeping everything tidy you are doing yourself a favor because the project could last years depending on how much time you put into it. The code you wrote maybe two years ago is going to be really difficult to modify or understand the purpose if it is not well organized and documented.
+
+ 
+
+-Do you find your professional work informs your approach to homebrewing, or vice versa?
+
+Yes, I think so. I have more than 15 years of experience working with different game engines, some are homemade and some are well established in the video game industry. I learnt how to structure and build a game from scratch and additionally working with talented people you get to learn good practices as well. 
+
+So I wanted to create a good working environment and put in place good practices as much as possible. So even if you are working on your own project alone, it is good and you will thank yourself later in the project lifetime when you need to restructure something or read code you have written a year ago and having all clean and well-structured will make a huge difference overall.
+
+ 
+
+-Some of the other games you’ve worked on include Alpha Assault, Banana Kong, and the Thrill Rush games for more modern platforms. Do you have a preference creating for a particular platform? Does your process differ when working within a different set of limitations?
+
+Working for a game console like the Xbox 360 or the Nintendo Wii was ideal because you know the hardware won't change and you can have the same result on every machine. For example, working for a game on Android, there are thousands of different hardware and software combinations that can make the game fail for some unknown reason. If you don't have that particular version of the hardware it is going to be difficult to test and see what is wrong with the game. PC games are a bit similar with different graphics cards for example. I know this argument is not valid if you are using a well-used game engine like Unity3d or Unreal but, I enjoy game development the most when I'm doing everything myself like I used to do it before those engines were a thing.
+
+Screenshot from Banana Kong by FDG Entertainment
+
+And in terms of limitations, of course it also makes it different to work with something as big as a PC game or really small as a NES game. I have experience working with limited RAM space on the Nintendo Wii and even smaller for the Nintendo 3DS. It is fun though having more constraints to the work because it is when you have to be creative and come up with optimal solutions for the product you are making. It doesn't feel the same when you have all the resources of the world, it is not that exciting for me in particular.
+
+ 
+
+-Had you played Montezuma’s Revenge on the Atari before?
+
+Of course. I'm 40 years old and in my childhood, a lot of kids had the Atari. I never had one for myself but I went to friends and family to play and of course everybody had a copy of Montezuma’s Revenge. My very first game console was the Nintendo Entertainment System.
+
+ 
+
+-What was the working dynamic like in the development of Montezuma’s Revenge for the NES?
+
+I had a plan for what to do for the entire year and I was working on one thing at a time. I tested on the emulator, Mesen, and later in my AVS. It was just me and the computer. Nothing fancy.
+
+ 
+
+-What new challenges or surprises surfaced in working on the game? What lessons did you learn that you would like to share with the people who aspire to follow in your footsteps?
+
+I hit the wall multiple times and for me everything was a learning experience. How to organize the code was a challenge because there is nothing on the Internet to help you out with that. I came up with my own way of structuring the files, methods and variables. Because the game is using only 40k of memory, the biggest challenge was to properly scale down the game and fit 9 levels with 100 rooms each plus a music engine and music.
+
+Because of the constraints of the memory I could not use a music engine from someone else, I had to write my own and my own format music for it. It wasn't that bad and at the end I enjoyed the process. For example the 3 music tracks are stored inside the CHR ROM alongside with the sprites.
+
+Speaking of the music, all my maps are compressed using Run Length Encoding (RLE), and the time to decompress the map was taking too long and it made the music run slow while changing rooms. I had to decompress and load the maps in multiple frames and keep the transition between rooms fast enough to not affect the game experience.
+
+Another challenge was the tile animations. NROM has no built-in tech to handle background animation and Montezuma’s Revenge is heavy in background animation like the fire or conveyor belts, etc. So I came up with a tile animation system that can update multiple tiles on different frames. The important part here is the correct separation between the main thread and the code that runs in the NMI. The challenge was to make the NMI code really efficient and send commands to the NMI to run the specific code only when it was needed.
+
+ 
+
+-Montezuma’s Revenge is an iconic game with a longstanding fanbase. How does it feel to work on a game with such a deep history?
+
+I’m really proud. This game is an icon in my country, Chile. If you talk about Atari, you have to talk about Montezuma’s Revenge. I played it when I was a child and I never dreamed one day to be part of its history.
+
+ 
+
+-What aspects of Montezuma’s Revenge are you most proud of?
+
+I started knowing nothing about 6502 assembly nor how to make a game for the NES. So I'm really proud of having a game and releasing it. Actually releasing a game is the most difficult part of game development, because it has to be perfect when it has to come out of the door.
+
+ 
+
+-Are there any other projects you have lined up on the horizon? Any dream projects?
+
+Not now. Having a side project can eat up a lot of your time but I would like to do something for the SNES or maybe a bigger NES game but now I have nothing in mind.
+
+ 
+
+-Are there any homebrew games in development that you are excited to play?
+
+Not at the moment.
+
+ 
+
+-I really appreciate you taking the time to talk with me and share your experiences. Is there anything else you would like to tell readers and fans?
+
+If you would like to start developing your own game, start small and always reach out to the NESDev community, they are super friendly and supportive.
+
+ 
+
+ 
+
+
+-Before we dive into Montezuma’s Revenge, let’s catch up! How have you been since we talked about Curse of Illmoore Bay and Eyra-The Crow Maiden?
+
+Good! Just been busy plugging away at code and getting ready to start releasing the 16-bit versions of Eyra.
+
+ 
+
+-Between your Twitter and Discord, there are so many brewers who are either using Second Dimension to create physical releases of their games (like the upcoming Fire and Rescue), or are using SecondBASIC Studio to create their games. How does it feel to be one of the go-to people for the development and release of homebrew games?
+
+It’s really cool! I love seeing these projects that people are working on and happy to see them being able to release their own stuff the way the want to.
+
+Screenshot from Fire & Rescue by Skyboy Games
+
+ 
+
+-How did you first connect with Rob Jaeger/Normal Distribution?
+
+Ha! So funny story. I got an email sometime back in April or early May asking if I would be interested in potentially publishing the NES version of Montezuma’s Revenge. Now, being one of the games my friends and I played a lot of, I thought this would be a cool opportunity.
+
+I didn’t even look to see who sent me the email. I went out to Normal Distribution’s website, contacted Rob about someone asking me about publishing an NES version or Monte, and seeing if he had given the “okay” on it, etc.
+
+Turns out, he’s the one who originally emailed me. Boy did I feel silly.
+
+ 
+
+-Had you previously played Montezuma’s Revenge on any of the consoles for which it was original released, or the Master System port?
+
+Back in the 4th grade, our teacher had an Apple LE II in our classroom. If you did good in class, he would let you play games on it, and he had Montezuma. My friend and I tried to play that game as much as we could back then, but we never knew how far we were into the game – plus we only had maybe 15 – 20 minutes to play when we were able.
+
+ 
+
+-What was the working dynamic like in your collaboration with Normal Distribution?
+
+Rob is very down to earth, very focused, and is very willing to listen to what you have to say. It’s been a great experience so far, and I hope to learn as much as I can from him.
+
+ 
+
+-What does it mean to you that the creator of an iconic game from the Atari-era came to you for help publishing the NES port of the game?
+
+It’s surreal. It’s kind of like getting to play catch with your favorite ball player, or have a jam session with your favorite artist. Montezuma’s was definitely a childhood favorite that holds a lot of happy memories, so it’s pretty wild to get the opportunity to lend a hand with a game with such history.
+
+ 
+
+-What new challenges or surprises surfaced in working on Montezuma’s Revenge from a publication perspective?
+
+So far nothing new has popped up. My process is pretty solid, so there’s minimal concern there. It’s really just making sure everything falls into place and any bumps we hit, we just do what we need to in order to press onward.
+
+ 
+
+-You’ve told me there will be a Kickstarter campaign for Montezuma’s Revenge. Do you have a date, specific or relative that we can write on our calendars?
+
+We’re aiming for December to launch the campaign.
+
+ 
+
+-You recently shared a poll on Twitter to see what game fans were most looking forward to next: Affinity Sorrow and Curse of Illmoore Bay 2. Any news you would like to share about either?
+
+Affinity Sorrow won the poll, so we’ve been working on that – well, Jav mainly has since I’m finishing up Eyra MD. Lots of content is being created, so we’ll be also working on a campaign for that as well, but we’re not 100% sure of the timeline just yet. Soon, though.
+
+Affinity Sorrow vs. Curse of Illmoore Bay 2: This Time it’s Ill-more!
+
+ 
+
+-I really appreciate you taking the time to talk with me and share your experiences. Is there anything else you would like to tell readers and fans?
+
+Thanks for taking the time to talk to us! This wouldn’t be possible without our fans – and we appreciate every one of you ❤️
+
+ 
+
+Conclusion:
+
+Thanks for tuning in to this latest mini-sode of the series that shares sneak peeks into the latest homebrew games and the folks who bring them into the world. What are your thoughts on Montezuma’s Revenge, its talented development team, and its legacy? What homebrews are you eagerly looking forward to? Perhaps you’ll see it here soon when…A Homebrew Draws Near! Command?

@@ -1,0 +1,67 @@
+What is RLHF?
+Reinforcement learning from human feedback (RLHF) is a machine learning (ML) technique that uses human feedback to optimize ML models to self-learn more efficiently. Reinforcement learning (RL) techniques train software to make decisions that maximize rewards, making their outcomes more accurate. RLHF incorporates human feedback in the rewards function, so the ML model can perform tasks more aligned with human goals, wants, and needs. RLHF is used throughout generative artificial intelligence (generative AI) applications, including in large language models (LLM).
+
+Why is RLHF important?
+The applications of artificial intelligence (AI) are broad-ranging, from self-driving cars to natural language processing (NLP), stock market predictors, and retail personalization services. No matter the given application, the goal of AI is ultimately to mimic human responses, behaviors, and decision-making. The ML model must encode human input as training data so that the AI mimics humans more closely when completing complex tasks.
+
+RLHF is a specific technique that is used in training AI systems to appear more human, alongside other techniques such as supervised and unsupervised learning. First, the model’s responses are compared to the responses of a human. Then a human assesses the quality of different responses from the machine, scoring which responses sound more human. The score can be based on innately human qualities, such as friendliness, the right degree of contextualization, and mood. 
+
+RLHF is prominent in natural language understanding, but it’s also used across other generative AI applications.
+
+
+Enhances AI performance
+RLHF makes the ML model more accurate. You can train a model can be trained on pregenerated human data, but having additional human feedback loops significantly enhances model performance compared to its initial state.
+
+For example, when text is translated from one language to another, a model might produce text that’s technically correct but sounds unnatural to the reader. A professional translator can first perform the translation, with the machine-generated translation scored against it, and then a series of machine-generated translations can be scored for quality. The addition of further training to the model makes it better at producing natural-sounding translations.
+
+Introduces complex training parameters
+In some instances in generative AI, it can be difficult to accurately train the model for certain parameters. For example, how do you define the mood of a piece of music? There might be technical parameters such as key and tempo that indicate a certain mood, but a musical piece’s spirit is more subjective and less well defined than just a series of technicalities. Instead, you can provide human guidance where composers create moody pieces, and then you can label machine-generated pieces according to their level of moodiness. This enables a machine to learn these parameters much more quickly.
+
+Enhances user satisfaction
+Although an ML model can be accurate, it might not appear human. RL is needed to guide the model toward the best, most engaging response for human users.
+
+For example, if you asked a chatbot what the weather is like outside, it might respond, “It’s 30 degrees Celsius with clouds and high humidity,” or it might respond, “The temperature is around 30 degrees at the moment. It’s cloudy out and humid, so the air might seem thicker!” Although both responses say the same thing, the second response sounds more natural and provides more context. 
+
+As human users rate which model responses they prefer, you can use RLHF for collecting human feedback and improving your model to best serve real people.
+
+How does RLHF work?
+RLHF is performed in four stages before the model is considered ready. Here, we use the example of a language model—an internal company knowledge base chatbot—that uses RLHF for refinement.
+
+We only give an overview of the learning process. Significant mathematical complexity exists in training the model and its policy refinement for RLHF. However, the complex processes are well defined in RLHF and often have prebuilt algorithms that simply need your unique inputs.
+
+Data collection
+Before performing ML tasks with the language model, a set of human-generated prompts and responses are created for the training data. This set is used later in the model’s training process.
+
+For example, the prompts might be:
+
+“Where is the location of the HR department in Boston?”
+“What is the approval process for social media posts?”
+“What does the Q1 report indicate about sales compared to previous quarterly reports?” 
+A knowledge worker in the company then answers these questions with accurate, natural responses.
+
+Supervised fine-tuning of a language model
+You can use a commercial pretrained model as the base model for RLHF. You can fine-tune the model to the company’s internal knowledge base by using techniques such as retrieval-augmented generation (RAG). When the model is fine-tuned, you compare its response to the predetermined prompts with the human responses collected in the previous step. Mathematical techniques can calculate the degree of similarity between the two. 
+
+For example, the machine-generated responses can be assigned a score between 0 and 1, with 1 being the most accurate and 0 being the least accurate. With these scores, the model now has a policy that is designed to form responses that score closer to human responses. This policy forms the basis of all future decision-making for the model.
+
+Building a separate reward model
+The core of RLHF is training a separate AI reward model based on human feedback, and then using this model as a reward function to optimize policy through RL. Given a set of multiple responses from the model answering the same prompt, humans can indicate their preference regarding the quality of each response. You use these response-rating preferences to build the reward model that automatically estimates how high a human would score any given prompt response. 
+
+Optimize the language model with the reward-based model
+The language model then uses the reward model to automatically refine its policy before responding to prompts. Using the reward model, the language model internally evaluates a series of responses and then chooses the response that is most likely to result in the greatest reward. This means that it meets human preferences in a more optimized manner.
+
+The following image shows an overview of the RLHF learning process.
+
+
+How is RLHF used in the field of generative AI?
+RLHF is recognized as the industry standard technique for ensuring that LLMs produce content that is truthful, harmless, and helpful. However, human communication is a subjective and creative process—and the helpfulness of LLM output is deeply influenced by human values and preferences. Each model is trained slightly differently and uses different human responders, so the outputs differ even between competitive LLMs. The degree to which each model involves human values is totally up to the creator.
+
+The applications of RLHF extend beyond the bounds of LLMs to other types of generative AI. Here are some examples:
+
+RLHF can be used in AI image generation: for example, gauging the degree of realism, technicality, or mood of artwork
+In music generation, RLHF can assist in creating music that matches certain moods and soundtracks to activities
+RLHF can be used in a voice assistant, guiding the voice to sound more friendly, inquisitive, and trustworthy
+How can AWS help with your RLHF requirements?
+Amazon SageMaker Ground Truth offers the most comprehensive set of human-in-the-loop capabilities for incorporating human feedback across the ML lifecycle to improve model accuracy and relevancy. You can complete various human-in-the-loop tasks, from data generation and annotation to reward model generation, model review, and customization through a self-service or AWS managed offering.
+
+SageMaker Ground Truth includes a data annotator for RLHF capabilities. You can give direct feedback and guidance on output that a model has generated by ranking, classifying, or doing both for its responses for RL outcomes. The data, referred to as comparison and ranking data, is effectively a reward model or reward function, which is then used to train the model. You can use comparison and ranking data to customize an existing model for your use case or to fine-tune a model that you build from scratch.

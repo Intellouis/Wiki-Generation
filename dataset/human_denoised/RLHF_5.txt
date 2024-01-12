@@ -1,0 +1,30 @@
+What is RLHF: Reinforcement Learning from Human Feedback
+
+Reinforcement learning from human feedback (RLHF) is an advanced technique to train large AI language models to generate higher quality text outputs. It incorporates direct human feedback into the training loop.
+
+In simple terms, RLHF works by:
+
+Starting with a large pre-trained language model that can generate text snippets from prompts
+Systematically collecting data on human preferences by having people compare and rank different AI-generated options from the same prompt. This preference data is used to train a separate “reward model” that will score new AI-generated text.
+Using reinforcement learning algorithms to fine-tune and optimize the original language model to maximize the scores from the reward model when generating text, while constraining the model from changing too radically.
+The key innovation is creating training data from human comparisons of AI outputs, rather than relying on human-labeled datasets. This allows the AI to learn more complex, subjective attributes like creativity, truthfulness, and harmlessness that are difficult to directly program rules for.
+
+Why does RLHF matter?
+RLHF was a pivotal technique used by AI labs like Anthropic and OpenAI to develop large chatbot models with strong language generation abilities like Claude and ChatGPT.
+
+It allows AI text generation to better align with human preferences and values, beyond just predicting the next word accurately. This makes the AI more usable for open-ended real world applications.
+
+However, RLHF requires extensive data, compute resources, and engineering to scale up. There are also core limitations around dependency on ongoing human feedback and balancing performance gains with potential inaccuracies or harms.
+
+Current state and limitations
+RLHF remains an active area of research with open challenges. There are some open source tools available but no simple universal implementation.
+
+Key limitations include:
+
+Costly data needs — RLHF requires substantial volumes of human feedback data, which can require extensive paid human labeling.
+Potential for poor generalization — Performance is highly dependent on human annotator quality and biases. The AI has no inherent ground truth, so can learn harmful or factually inaccurate behaviors.
+Leading AI labs view advancing RLHF capabilities and mitigating limitations as important open problems. This includes developing new algorithms, analyzing model dynamics, and techniques to reduce harms.
+
+RLHF allows cutting edge AI to better align with human values but still has major challenges around data, harms, and implementation complexity. It shows promise for the future with more research.
+
+Generative AI Insights for Business Leaders and Storytellers: Learn more about the scope of this publication here.

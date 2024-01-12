@@ -1,0 +1,58 @@
+Montezuma’s Revenge
+
+
+Gameplay:
+This is the Commodore 64 game that I remember playing the most as a kid. I used to play it for hours at a friends house. I think we made it to the 5th or 6th level and then died. Good times! When I picked up the interest for the breadbox, this was the game I played the most. The original prototype of the game was created by Robert Jaeger using an Atari 8 bit computer under his Utopia Software Inc. label. At the Consumer Electronics Show in 1983, the prototype/demo of the game caught the attention of Parker Brothers who convinced him that the game should be published internationally. The original prototype had music, a fancy intro screen and a giant Mexican at the end of the game. These were all removed by Parker Brothers to scale down the game to fit the Commodore 64 platform and the original name of the main character was changed from Pedro to Panama Joe. However, Parker Brothers did finish the game in order to make is suitable for consumers.
+
+The game is a 2D platformer and you play the character of Panama Joe. Each of the game’s 9 levels consist of 100 rooms which are organized as a pyramid with 10 floors. Panama Joe starts at the top of the pyramid and your quest is to get to the bottom of each level. In order to do that Panama Joe must jump robes, climb ladders, leap deadly fire pits, stay clear of killer creatures (skulls, spiders and snakes), stay on moving conveyer belts, do not get zapped by any laser gates, stay on dissapearing floors or fall off any platform on his way down the pyramid.
+
+
+
+Throughout the pyramid, doors of different color keep Panama Joe from passing if he does not hold a key of the correct color (blue, red and green). It is therefore important to have keys of the right colors. The inventory window on the top left of the screen allows for up to 6 items, so make sure not to fill up the inventory with keys of the wrong colors! To help Panama Joe on his quest, speciel tools and rewards can be picked up throughout the game. These include Jewels (1000 points), swords for killing spiders and skulls (50 points), torches (3000 points) and hammers for evading killer creatures (100 points). Using a sword to kill a skull or a spider will add 2000 or 3000 points respectively. Whenever you obtain 10.000 points in Level 1-3 a new life is awarded to your quest. From Level 4 and beyond one must gain 20.000 points to be awarded an extra life.
+
+When you have made it to the bottom of a level, Panama Joe reaches the Treasure Chamber  in which the treasure of the Emperor, Montezuma lies. These rooms are filled with jewels and one has to jump between robes to get as many points before Panama Joe is automatically transferred to the next level.
+
+
+To make things more diffucult, more enemies are added as you move to higher levels. Furthermore, in Level 1 the lowest floor of the pyramid is dark, in Level 2 it is the two lowest floors and so on. Thus, in Level 9 all floors are dark. Torches are available in Level 1-8. If you do not have a torch you will only be able to see fire, enemies, chains, keys, laser gates and the dissapearing floors. In Level 9, there are no torches available and you must remember exactly where everything is. If you get killed by an enemy (snake, spider or skull) it will dissapear in Level 1-4. However, from Level 5-9 the enemies will no longer dissapear and you will have to pass them without being killed in order to move on.
+
+Walkthrough:
+This is a video of how to get through level 1,2,4 and 9. Levels 4-9 are pretty much the same. The only difference is that the number of dark floors increases and that no torch is available in Level 9. I’ve also put in how to get a torch in the darkness of Level 6. I’ve seen other walkthroughs so it is definaltely possible to get to the bottom using other paths, but this is how I do it! Enjoy!
+
+
+Game Score:
+As the score box on the top right of the screen only holds 6 digits, I decided to see what happended if I got a million+ points. I completed the 9th level with about 350.000 points and then just repeated the final level over and over again until I reached a seven digit score. I played for about 2 hours 15 minutes before reaching the goal. At that time I must have completed the 9th level like 35-40 times. At 1.007.100 points I captured the score and went to bed. I just love this game so much! (On the right side of the TV is my C64 DTV Datasette Mod)
+
+
+Game Map:
+Two C64 enthusiasts, Spaceman Spiff and Steel Lynx at SYMLiNK.dk, have made complete maps of all 9 levels of Montezuma’s Revenge for the Commodore 64. They’ve made a little script which would do a screen dump whenever Panama Joe entered a new room. Thus, they’ve walked through all rooms of all 9 levels in order to make complete maps. The maps can be downloaded from their website. I made a poster type thing showing the maps of level 1, 2, 3 and 9 for my game room as level 4-9 are pretty much identical with respect to doors, ladders, conveyer belts, enemies etc. This way it is possible to locate missing keys or identifying alternate routes to the next level. Based on the color changes in Levels 1-8, they turned on the light in Level 9 in order to locate the different doors which is invisible in the actual game. The poster below can be downloaded in full size as a pdf. The size of the poster is 70 x 100 cm.
+
+Poster_breadbox64
+Original Game:
+I own the diskette version of the game by Parker Brothers  and the diskette and tape version from Databyte. The A-sides of the diskettes hold the Commodore 64 version while the B-sides have the Atari 8-bit version. The instructions booklet covers all platforms that the game was released on.
+
+The Parker Brothers (1984) Diskette Version:
+
+Montezuma's Revenge featuring Panama Joe from Parker Brothers for the Commodore 64. This is the front cover of the game.
+
+The Databyte (1986) Diskette Version:
+
+The instructions booklet is in German, English and French as this is the European release of the game.
+
+The Databyte (1986) Tape Version:
+
+Commodore 64 Montezuma's revenge on tape from Databyte
+
+The BCI Software (1986) Diskette Version:
+
+Thanks to jerrykurtz from Lemon64.com) for the images.
+
+Homemade Cartridge Version (2017):
+
+More information on the creation of the cart can be found here (link).
+
+Commodore 64 Montezuma's revenge on cartidge and a Magic Cart.
+
+Verdict:
+The gameplay is very fluent as Panama Joe moves and jumps as expected. There is no lag or delay on any input from the joystick and the character moves very fluently. The difficulty of the enemies are balanced and I have not yet reached a corner that I could not get myself out of yet. Of course, if you pick up too many keys in the wrong colors you cannot escape the level, but that is not really an issue when you have played the game for a while.
+
+To get a perfect score the game must had had some kind of ending. For example in the form of escaping the Giant Mexican as in the original prototype or something like that. Even a princess in the end would had made the game more complete. Or by having Panama Joe walk outside the fortress pyramid. Now it’s like, eeehhh, ok I’m done now… But as long as you know that this is how it ends, it’s a great game that I still love to play.
